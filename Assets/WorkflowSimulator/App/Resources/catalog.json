@@ -1,0 +1,158 @@
+{
+  "items": [
+	  {
+		"Id": 1,
+		"Name": "Column",
+		"AssetIcon": "icon_column",
+		"AssetName": "Column_1",
+		"x": 1,
+		"y": 1,
+		"IsHuman": false,
+		"IsChair": false,
+		"IsMan": false
+	  },
+	  {
+		"Id": 2,
+		"Name": "Wall",
+		"AssetIcon": "icon_wall",
+		"AssetName": "Wall_1",
+		"x": 1,
+		"y": 3,
+		"IsHuman": false,
+		"IsChair": false,
+		"IsMan": false
+	  },
+	  {
+		"Id": 3,
+		"Name": "Window",
+		"AssetIcon": "icon_window",
+		"AssetName": "Window_1",
+		"x": 1,
+		"y": 3,
+		"IsHuman": false,
+		"IsChair": false,
+		"IsMan": false
+	  },
+	  {
+		"Id": 4,
+		"Name": "Table Computer",
+		"AssetIcon": "icon_table_desktop",
+		"AssetName": "Table_1",
+		"x": 1,
+		"y": 2,
+		"IsHuman": false,
+		"IsChair": false,
+		"IsMan": false
+	  },
+	  {
+		"Id": 5,
+		"Name": "Chair",
+		"AssetIcon": "icon_chair",
+		"AssetName": "Chair_1",
+		"x": 1,
+		"y": 1,
+		"IsHuman": false,
+		"IsChair": true,
+		"IsMan": false
+	  },
+	  {
+		"Id": 6,
+		"Name": "Toilet",
+		"AssetIcon": "icon_toilet",
+		"AssetName": "Toilet_1",
+		"x": 1,
+		"y": 1,
+		"IsHuman": false,
+		"IsChair": true,
+		"IsMan": false
+	  },
+	  {
+		"Id": 7,
+		"Name": "Avatar Red",
+		"AssetIcon": "avatarred_icon",
+		"AssetName": "AvatarRed",
+		"x": 1,
+		"y": 1,
+		"IsHuman": true,
+		"IsChair": false,
+		"IsMan": false
+	  },
+	  {
+		"Id": 8,
+		"Name": "Avatar Green",
+		"AssetIcon": "avatargreen_icon",
+		"AssetName": "AvatarGreen",
+		"x": 1,
+		"y": 1,
+		"IsHuman": true,
+		"IsChair": false,
+		"IsMan": false
+	  },
+	  {
+		"Id": 9,
+		"Name": "Avatar Blue",
+		"AssetIcon": "avatarblue_icon",
+		"AssetName": "AvatarBlue",
+		"x": 1,
+		"y": 1,
+		"IsHuman": true,
+		"IsChair": false,
+		"IsMan": true
+	  },
+	  {
+		"Id": 10,
+		"Name": "Table Square",
+		"AssetIcon": "icon_table_square",
+		"AssetName": "Table_2",
+		"x": 1,
+		"y": 3,
+		"IsHuman": false,
+		"IsChair": false,
+		"IsMan": false
+	  },
+	  {
+		"Id": 11,
+		"Name": "Exit Door",
+		"AssetIcon": "icon_exitdoor",
+		"AssetName": "ExitDoor",
+		"x": 1,
+		"y": 3,
+		"IsHuman": false,
+		"IsChair": true,
+		"IsMan": false
+	  },
+	  {
+		"Id": 12,
+		"Name": "Avatar Yellow",
+		"AssetIcon": "avataryellow_icon",
+		"AssetName": "AvatarYellow",
+		"x": 1,
+		"y": 1,
+		"IsHuman": true,
+		"IsChair": false,
+		"IsMan": true
+	  },
+	  {
+		"Id": 13,
+		"Name": "Avatar Pink",
+		"AssetIcon": "avatarpink_icon",
+		"AssetName": "AvatarPink",
+		"x": 1,
+		"y": 1,
+		"IsHuman": true,
+		"IsChair": false,
+		"IsMan": true
+	  },
+	  {
+		"Id": 14,
+		"Name": "Avatar Orange",
+		"AssetIcon": "avatarorange_icon",
+		"AssetName": "AvatarOrange",
+		"x": 1,
+		"y": 1,
+		"IsHuman": true,
+		"IsChair": false,
+		"IsMan": true
+	  }
+	]
+}

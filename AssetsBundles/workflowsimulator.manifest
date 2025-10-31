@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.59f2
+CRC: 182034924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53a4cab7b50733d5ec16c0d49ed1582b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 108fc689adf996815dd37aabf359ef4d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3bd2c0a9755fbec410f2afd13ff4a5e9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10efdb6e94f3182498bd90999d307fc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d787a7fbae4ad84bbef0a17c82728b0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/icon_window.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/icon_wall.png
+- Assets/WorkflowSimulator/App/Editor/Avatars/Images/avatarred_icon.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Table_2.prefab
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/Brown.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/Yellow.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/Orange.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Toilet_1.prefab
+- Assets/WorkflowSimulator/App/Editor/Avatars/Images/avatarpink_icon.png
+- Assets/WorkflowSimulator/App/Editor/Avatars/Images/avatarorange_icon.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Table_1.prefab
+- Assets/WorkflowSimulator/App/Editor/Avatars/AvatarPink.prefab
+- Assets/WorkflowSimulator/App/Editor/Avatars/Images/avataryellow_icon.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/icon_table_desktop.png
+- Assets/WorkflowSimulator/App/Editor/Avatars/AvatarOrange.prefab
+- Assets/WorkflowSimulator/App/Editor/Decorations/Window_1.prefab
+- Assets/WorkflowSimulator/App/Editor/City/GrassForest.prefab
+- Assets/WorkflowSimulator/App/Editor/City/AsphaltGrid.prefab
+- Assets/WorkflowSimulator/App/Editor/Avatars/AvatarGreen.prefab
+- Assets/WorkflowSimulator/App/Editor/Decorations/Column_1.prefab
+- Assets/WorkflowSimulator/App/Editor/Avatars/AvatarYellow.prefab
+- Assets/WorkflowSimulator/App/Editor/BodyPlayer.prefab
+- Assets/WorkflowSimulator/App/Editor/Decorations/Chair_1.prefab
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/Pink.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/icon_chair.png
+- Assets/WorkflowSimulator/App/Editor/Avatars/AvatarRed.prefab
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/Red.png
+- Assets/WorkflowSimulator/App/Editor/tex_parquet.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Wall_1.prefab
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/icon_column.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/Green.png
+- Assets/WorkflowSimulator/App/Editor/Avatars/Images/avatarblue_icon.png
+- Assets/WorkflowSimulator/App/Editor/Office.prefab
+- Assets/WorkflowSimulator/App/Editor/City/floortiles.jpg
+- Assets/WorkflowSimulator/App/Editor/Avatars/Images/avatargreen_icon.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/icon_exitdoor.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/icon_toilet.png
+- Assets/WorkflowSimulator/App/Editor/Avatars/AvatarBlue.prefab
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/icon_table_square.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/Images/Blue.png
+- Assets/WorkflowSimulator/App/Editor/Decorations/ExitDoor.prefab
+- Assets/WorkflowSimulator/App/Editor/NavMesh-NavMesh.asset
+Dependencies: []

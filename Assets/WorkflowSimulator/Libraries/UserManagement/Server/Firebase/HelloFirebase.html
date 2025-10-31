@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	
+	<head>
+		<meta charset="utf-8">
+		<title>Firebase Web Quickstart</title>
+	</head>
+
+	<body>
+	
+	<h1 id="tagInformation"></h1>
+	
+	<script src="https://www.gstatic.com/firebasejs/5.5.5/firebase.js"></script>
+	<script>
+	  // Initialize Firebase
+	  var config = {
+		apiKey: "AIzaSyB1DtMzoal3MtrmD2AQ7d541ZDZHR8XGQQ",
+		authDomain: "your-vr-experience-57424271.firebaseapp.com",
+		databaseURL: "https://your-vr-experience-57424271.firebaseio.com",
+		projectId: "your-vr-experience-57424271",
+		storageBucket: "your-vr-experience-57424271.appspot.com",
+		messagingSenderId: "983151732146"
+	  };
+	  firebase.initializeApp(config);
+	
+		
+		var tagInfo = document.getElementById('tagInformation');
+		var dbRef = firebase.database().ref().child('text');
+		dbRef.on('value', snap => tagInfo.innerText = snap.val());
+	
+	</script>
+	
+	</body>
+	
+</html>
+	

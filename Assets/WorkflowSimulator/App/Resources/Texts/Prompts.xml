@@ -1,0 +1,1876 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<texts>
+
+  <text id="XXXXXXXXXXXXXXXXXXXXXXXXXXXX">
+    <en>XXXXXXXXXXXXXXXXXXXXXXXXX</en>
+    <es>XXXXXXXXXXXXXXXXXXXXXXXX</es>
+  </text>
+
+  <text id="xml.tag.creator">
+    <en>creator</en>
+    <es>creador</es>
+    <de>Ersteller</de>
+    <fr>créateur</fr>
+    <it>creatore</it>
+    <ru>создатель</ru>
+    <ca>creador</ca>
+  </text>
+
+  <text id="xml.tag.contribution">
+    <en>contribution</en>
+    <es>contribucion</es>
+    <de>Beitrag</de>
+    <fr>contribution</fr>
+    <it>contributo</it>
+    <ru>вклад</ru>
+    <ca>contribució</ca>
+  </text>
+
+  <text id="xml.tag.contributions">
+    <en>contributions</en>
+    <es>contribuciones</es>
+    <de>Beiträge</de>
+    <fr>contributions</fr>
+    <it>contributi</it>
+    <ru>вклады</ru>
+    <ca>contribucions</ca>
+  </text>
+
+  <text id="xml.tag.man">
+    <en>man</en>
+    <es>hombre</es>
+    <de>Mann</de>
+    <fr>homme</fr>
+    <it>uomo</it>
+    <ru>мужчина</ru>
+    <ca>home</ca>
+  </text>
+
+  <text id="xml.tag.woman">
+    <en>woman</en>
+    <es>mujer</es>
+    <de>Frau</de>
+    <fr>femme</fr>
+    <it>donna</it>
+    <ru>женщина</ru>
+    <ca>dona</ca>
+  </text>
+
+  <text id="xml.tag.requirements">
+    <en>requirements</en>
+    <es>requerimientos</es>
+    <de>Anforderungen</de>
+    <fr>exigences</fr>
+    <it>requisiti</it>
+    <ru>требования</ru>
+    <ca>requisits</ca>
+  </text>
+
+  <text id="xml.tag.design">
+    <en>design</en>
+    <es>diseño</es>
+    <de>Design</de>
+    <fr>design</fr>
+    <it>design</it>
+    <ru>дизайн</ru>
+    <ca>disseny</ca>
+  </text>
+
+  <text id="xml.tag.code">
+    <en>code</en>
+    <es>código</es>
+    <de>Code</de>
+    <fr>code</fr>
+    <it>codice</it>
+    <ru>код</ru>
+    <ca>codi</ca>
+  </text>
+
+  <text id="xml.tag.testing">
+    <en>testing</en>
+    <es>testeo</es>
+    <de>Testen</de>
+    <fr>test</fr>
+    <it>test</it>
+    <ru>тестирование</ru>
+    <ca>prova</ca>
+  </text>
+
+  <text id="xml.tag.project.document">
+    <en>Project Document</en>
+    <es>Documento de proyecto</es>
+    <de>Projektdokument</de>
+    <fr>document de projet</fr>
+    <it>documento di progetto</it>
+    <ru>проектный документ</ru>
+    <ca>document del projecte</ca>
+  </text>
+
+  <text id="xml.tag.task.document">
+    <en>Task Document</en>
+    <es>Documento de tarea</es>
+    <de>Aufgabendokument</de>
+    <fr>document de tâche</fr>
+    <it>documento dell’attività</it>
+    <ru>документ задачи</ru>
+    <ca>document de tasca</ca>
+  </text>
+
+  <text id="xml.tag.assigned">
+    <en>assigned</en>
+    <es>asignado</es>
+    <de>zugewiesen</de>
+    <fr>assigné</fr>
+    <it>assegnato</it>
+    <ru>назначен</ru>
+    <ca>assignat</ca>
+  </text>
+
+  <text id="xml.tag.category.lead">
+    <en>lead</en>
+    <es>lider</es>
+    <de>Leiter</de>
+    <fr>chef</fr>
+    <it>capo</it>
+    <ru>лидер</ru>
+    <ca>líder</ca>
+  </text>
+
+  <text id="xml.tag.category.senior">
+    <en>senior</en>
+    <es>senior</es>
+    <de>Senior</de>
+    <fr>senior</fr>
+    <it>senior</it>
+    <ru>старший</ru>
+    <ca>sènior</ca>
+  </text>
+
+  <text id="xml.tag.category.normal">
+    <en>normal</en>
+    <es>normal</es>
+    <de>normal</de>
+    <fr>normal</fr>
+    <it>normale</it>
+    <ru>обычный</ru>
+    <ca>normal</ca>
+  </text>
+
+  <text id="xml.tag.category">
+    <en>category</en>
+    <es>categoria</es>
+    <de>Kategorie</de>
+    <fr>catégorie</fr>
+    <it>categoria</it>
+    <ru>категория</ru>
+    <ca>categoria</ca>
+  </text>
+
+  <text id="xml.tag.week">
+    <en>week</en>
+    <es>semana</es>
+    <de>Woche</de>
+    <fr>semaine</fr>
+    <it>settimana</it>
+    <ru>неделя</ru>
+    <ca>setmana</ca>
+  </text>
+
+  <text id="xml.tag.weeks">
+    <en>weeks</en>
+    <es>semanas</es>
+    <de>Wochen</de>
+    <fr>semaines</fr>
+    <it>settimane</it>
+    <ru>недели</ru>
+    <ca>setmanes</ca>
+  </text>
+
+  <text id="xml.tag.features">
+    <en>features</en>
+    <es>objetivos</es>
+    <de>Funktionen</de>
+    <fr>fonctionnalités</fr>
+    <it>funzionalità</it>
+    <ru>функции</ru>
+    <ca>característiques</ca>
+  </text>
+
+  <text id="xml.tag.feature">
+    <en>feature</en>
+    <es>objetivo</es>
+    <de>Funktion</de>
+    <fr>fonctionnalité</fr>
+    <it>funzionalità</it>
+    <ru>функция</ru>
+    <ca>característica</ca>
+  </text>
+
+  <text id="xml.tag.future.tasks">
+    <en>future_tasks</en>
+    <es>tareas_futuras</es>
+    <de>zukünftige_Aufgaben</de>
+    <fr>tâches_futures</fr>
+    <it>compiti_futuri</it>
+    <ru>будущие_задачи</ru>
+    <ca>tasques_futures</ca>
+  </text>
+
+  <text id="xml.tag.future.task">
+    <en>future_task</en>
+    <es>tarea_futura</es>
+    <de>zukünftige_Aufgabe</de>
+    <fr>tâche_future</fr>
+    <it>compito_futuro</it>
+    <ru>будущая_задача</ru>
+    <ca>tasca_futura</ca>
+  </text>
+
+  <text id="xml.tag.type">
+    <en>type</en>
+    <es>tipo</es>
+    <de>Typ</de>
+    <fr>type</fr>
+    <it>tipo</it>
+    <ru>тип</ru>
+    <ca>tipus</ca>
+  </text>
+
+  <text id="xml.tag.short.description">
+    <en>short_description</en>
+    <es>descripcion_breve</es>
+    <de>kurze_Beschreibung</de>
+    <fr>description_briève</fr>
+    <it>descrizione_breve</it>
+    <ru>краткое_описание</ru>
+    <ca>descripció_breu</ca>
+  </text>
+
+  <text id="xml.tag.date">
+    <en>date</en>
+    <es>fecha</es>
+    <de>Datum</de>
+    <fr>date</fr>
+    <it>data</it>
+    <ru>дата</ru>
+    <ca>data</ca>
+  </text>
+
+  <text id="xml.tag.social.meeting">
+    <en>social</en>
+    <es>social</es>
+    <de>sozial</de>
+    <fr>social</fr>
+    <it>sociale</it>
+    <ru>социальная</ru>
+    <ca>social</ca>
+  </text>
+
+  <text id="xml.tag.work.meeting">
+    <en>work</en>
+    <es>work</es>
+    <de>Arbeit</de>
+    <fr>travail</fr>
+    <it>lavoro</it>
+    <ru>работа</ru>
+    <ca>feina</ca>
+  </text>
+
+  <text id="xml.tag.human.controlled">
+    <en>human_controlled</en>
+    <es>human_controlled</es>
+    <de>mensch_gesteuert</de>
+    <fr>contrôlé_humain</fr>
+    <it>controllato_umano</it>
+    <ru>управляемый_человеком</ru>
+    <ca>controlat_humà</ca>
+  </text>
+
+  <text id="xml.tag.question">
+    <en>question</en>
+    <es>pregunta</es>
+    <de>Frage</de>
+    <fr>question</fr>
+    <it>domanda</it>
+    <ru>вопрос</ru>
+    <ca>pregunta</ca>
+  </text>
+
+  <text id="xml.tag.employees.assigned">
+    <en>employees_assigned</en>
+    <es>trabajadores_assignados</es>
+    <de>zugewiesene_Mitarbeiter</de>
+    <fr>employés_assignés</fr>
+    <it>dipendenti_assegnati</it>
+    <ru>назначенные_сотрудники</ru>
+    <ca>treballadors_assignats</ca>
+  </text>
+
+  <text id="xml.tag.employees.working">
+    <en>employees_working</en>
+    <es>trabajadores_working</es>
+    <de>arbeitende_Mitarbeiter</de>
+    <fr>employés_travaillant</fr>
+    <it>dipendenti_che_lavorano</it>
+    <ru>работающие_сотрудники</ru>
+    <ca>treballadors_treballant</ca>
+  </text>
+
+  <text id="xml.value.hours.done">
+    <en>hours done</en>
+    <es>horas hechas</es>
+    <de>geleistete Stunden</de>
+    <fr>heures effectuées</fr>
+    <it>ore completate</it>
+    <ru>отработанные часы</ru>
+    <ca>hores fetes</ca>
+  </text>
+
+  <text id="xml.value.now.working">
+    <en>WORKING NOW</en>
+    <es>TRABAJANDO AHORA</es>
+    <de>JETZT ARBEITEND</de>
+    <fr>EN TRAIN DE TRAVAILLER</fr>
+    <it>STA LAVORANDO ORA</it>
+    <ru>РАБОТАЕТ СЕЙЧАС</ru>
+    <ca>TREBALLANT ARA</ca>
+  </text>
+
+  <text id="xml.tag.summary">
+    <en>summary</en>
+    <es>resumen</es>
+    <de>Zusammenfassung</de>
+    <fr>résumé</fr>
+    <it>riepilogo</it>
+    <ru>сводка</ru>
+    <ca>resum</ca>
+  </text>
+
+  <text id="xml.tag.state">
+    <en>state</en>
+    <es>estado</es>
+    <de>Status</de>
+    <fr>état</fr>
+    <it>stato</it>
+    <ru>состояние</ru>
+    <ca>estat</ca>
+  </text>
+
+  <text id="xml.value.done">
+    <en>DONE</en>
+    <es>COMPLETADO</es>
+    <de>ERLEDIGT</de>
+    <fr>TERMINÉ</fr>
+    <it>COMPLETATO</it>
+    <ru>ГОТОВО</ru>
+    <ca>COMPLETAT</ca>
+  </text>
+
+  <text id="xml.value.todo">
+    <en>TO DO</en>
+    <es>POR HACER</es>
+    <de>ZU TUN</de>
+    <fr>À FAIRE</fr>
+    <it>DA FARE</it>
+    <ru>СДЕЛАТЬ</ru>
+    <ca>PER FER</ca>
+  </text>
+
+  <text id="xml.value.doing">
+    <en>DOING</en>
+    <es>HACIENDO</es>
+    <de>IN ARBEIT</de>
+    <fr>EN COURS</fr>
+    <it>IN CORSO</it>
+    <ru>В ПРОЦЕССЕ</ru>
+    <ca>EN PROCÉS</ca>
+  </text>
+
+  <text id="xml.tag.employees">
+    <en>employees</en>
+    <es>empleados</es>
+    <de>Mitarbeiter</de>
+    <fr>employés</fr>
+    <it>dipendenti</it>
+    <ru>сотрудники</ru>
+    <ca>empleats</ca>
+  </text>
+
+  <text id="xml.tag.employee">
+    <en>employee</en>
+    <es>employee</es>
+    <de>Mitarbeiter</de>
+    <fr>employé</fr>
+    <it>dipendente</it>
+    <ru>сотрудник</ru>
+    <ca>empleat</ca>
+  </text>
+
+  <text id="xml.tag.order">
+    <en>order</en>
+    <es>orden</es>
+    <de>Reihenfolge</de>
+    <fr>ordre</fr>
+    <it>ordine</it>
+    <ru>порядок</ru>
+    <ca>ordre</ca>
+  </text>
+
+  <text id="xml.tag.speaker">
+    <en>speaker</en>
+    <es>orador</es>
+    <de>Sprecher</de>
+    <fr>orateur</fr>
+    <it>oratore</it>
+    <ru>докладчик</ru>
+    <ca>orador</ca>
+  </text>
+
+  <text id="xml.tag.name">
+    <en>name</en>
+    <es>nombre</es>
+    <de>Name</de>
+    <fr>nom</fr>
+    <it>nome</it>
+    <ru>имя</ru>
+    <ca>nom</ca>
+  </text>
+
+  <text id="xml.tag.description">
+    <en>description</en>
+    <es>descripción</es>
+    <de>Beschreibung</de>
+    <fr>description</fr>
+    <it>descrizione</it>
+    <ru>описание</ru>
+    <ca>descripció</ca>
+  </text>
+
+  <text id="xml.tag.doc">
+    <en>document</en>
+    <es>documento</es>
+    <de>Dokument</de>
+    <fr>document</fr>
+    <it>documento</it>
+    <ru>документ</ru>
+    <ca>document</ca>
+  </text>
+
+  <text id="xml.tag.project">
+    <en>project</en>
+    <es>proyecto</es>
+    <de>Projekt</de>
+    <fr>projet</fr>
+    <it>progetto</it>
+    <ru>проект</ru>
+    <ca>projecte</ca>
+  </text>
+
+  <text id="xml.tag.board">
+    <en>board</en>
+    <es>tareas</es>
+    <de>Tafel</de>
+    <fr>tableau</fr>
+    <it>bacheca</it>
+    <ru>доска</ru>
+    <ca>tauler</ca>
+  </text>
+
+  <text id="xml.tag.group">
+    <en>group</en>
+    <es>grupo</es>
+    <de>Gruppe</de>
+    <fr>groupe</fr>
+    <it>gruppo</it>
+    <ru>группа</ru>
+    <ca>grup</ca>
+  </text>
+
+  <text id="xml.tag.sprint">
+    <en>sprint</en>
+    <es>sprint</es>
+    <de>Sprint</de>
+    <fr>sprint</fr>
+    <it>sprint</it>
+    <ru>спринт</ru>
+    <ca>sprint</ca>
+  </text>
+
+  <text id="xml.tag.company">
+    <en>company</en>
+    <es>compañia</es>
+    <de>Unternehmen</de>
+    <fr>entreprise</fr>
+    <it>azienda</it>
+    <ru>компания</ru>
+    <ca>companyia</ca>
+  </text>
+
+  <text id="xml.tag.image">
+    <en>image</en>
+    <es>imagen</es>
+    <de>Bild</de>
+    <fr>image</fr>
+    <it>immagine</it>
+    <ru>изображение</ru>
+    <ca>imatge</ca>
+  </text>
+
+  <text id="xml.tag.conversation">
+    <en>conversation</en>
+    <es>conversacion</es>
+    <de>Gespräch</de>
+    <fr>conversation</fr>
+    <it>conversazione</it>
+    <ru>разговор</ru>
+    <ca>conversa</ca>
+  </text>
+
+  <text id="xml.tag.reply">
+    <en>reply</en>
+    <es>respuesta</es>
+    <de>Antwort</de>
+    <fr>réponse</fr>
+    <it>risposta</it>
+    <ru>ответ</ru>
+    <ca>resposta</ca>
+  </text>
+
+  <text id="xml.tag.participants">
+    <en>participants</en>
+    <es>participantes</es>
+    <de>Teilnehmer</de>
+    <fr>participants</fr>
+    <it>partecipanti</it>
+    <ru>участники</ru>
+    <ca>participants</ca>
+  </text>
+
+  <text id="xml.tag.participant">
+    <en>participant</en>
+    <es>participante</es>
+    <de>Teilnehmer</de>
+    <fr>participant</fr>
+    <it>partecipante</it>
+    <ru>участник</ru>
+    <ca>participant</ca>
+  </text>
+
+  <text id="xml.tag.additional.data">
+    <en>additionaldata</en>
+    <es>datosadicionales</es>
+    <de>zusätzlicheDaten</de>
+    <fr>données_supplémentaires</fr>
+    <it>dati_aggiuntivi</it>
+    <ru>дополнительныеданные</ru>
+    <ca>dades_addicionals</ca>
+  </text>
+
+  <text id="xml.tag.meetings">
+    <en>meetings</en>
+    <es>reuniones</es>
+    <de>Besprechungen</de>
+    <fr>réunions</fr>
+    <it>riunioni</it>
+    <ru>встречи</ru>
+    <ca>reunions</ca>
+  </text>
+
+  <text id="xml.tag.meeting">
+    <en>meeting</en>
+    <es>reunion</es>
+    <de>Besprechung</de>
+    <fr>réunion</fr>
+    <it>riunione</it>
+    <ru>встреча</ru>
+    <ca>reunió</ca>
+  </text>
+
+  <text id="xml.tag.previous.meetings">
+    <en>previous_meetings</en>
+    <es>reuniones_previas</es>
+    <de>vorherige_Besprechungen</de>
+    <fr>réunions_précédentes</fr>
+    <it>riunioni_precedenti</it>
+    <ru>предыдущие_встречи</ru>
+    <ca>reunions_prèvies</ca>
+  </text>
+
+  <text id="xml.tag.tasks">
+    <en>tasks</en>
+    <es>tareas</es>
+    <de>Aufgaben</de>
+    <fr>tâches</fr>
+    <it>compiti</it>
+    <ru>задачи</ru>
+    <ca>tasques</ca>
+  </text>
+
+  <text id="xml.tag.task">
+    <en>task</en>
+    <es>tarea</es>
+    <de>Aufgabe</de>
+    <fr>tâche</fr>
+    <it>compito</it>
+    <ru>задача</ru>
+    <ca>tasca</ca>
+  </text>
+
+  <text id="xml.tag.previous.task">
+    <en>previoustask</en>
+    <es>tareaprevia</es>
+    <de>vorherigeAufgabe</de>
+    <fr>tâcheprécédente</fr>
+    <it>compitoprecedente</it>
+    <ru>предыдущаязадача</ru>
+    <ca>tascaoprevia</ca>
+  </text>
+
+  <text id="xml.tag.documents">
+    <en>documents</en>
+    <es>documentos</es>
+    <de>Dokumente</de>
+    <fr>documents</fr>
+    <it>documenti</it>
+    <ru>документы</ru>
+    <ca>documents</ca>
+  </text>
+
+  <text id="xml.tag.document">
+    <en>document</en>
+    <es>documento</es>
+    <de>Dokument</de>
+    <fr>document</fr>
+    <it>documento</it>
+    <ru>документ</ru>
+    <ca>document</ca>
+  </text>
+
+  <text id="xml.tag.new.question">
+    <en>new_question</en>
+    <es>nueva_cuestion</es>
+    <de>neue_frage</de>
+    <fr>nouvelle_question</fr>
+    <it>nuova_domanda</it>
+    <ru>новый_вопрос</ru>
+    <ca>nova_qüestió</ca>
+  </text>
+
+  <text id="xml.tag.conversation.history">
+    <en>conversation_history</en>
+    <es>historia_conversación</es>
+    <de>gesprächsverlauf</de>
+    <fr>historique_conversation</fr>
+    <it>cronologia_conversazione</it>
+    <ru>история_разговора</ru>
+    <ca>historial_conversació</ca>
+  </text>
+
+  <text id="xml.tag.response">
+    <en>response</en>
+    <es>respuesta</es>
+    <de>antwort</de>
+    <fr>réponse</fr>
+    <it>risposta</it>
+    <ru>ответ</ru>
+    <ca>resposta</ca>
+  </text>
+
+  <text id="xml.tag.information">
+    <en>information</en>
+    <es>información</es>
+    <de>information</de>
+    <fr>information</fr>
+    <it>informazione</it>
+    <ru>информация</ru>
+    <ca>informació</ca>
+  </text>
+
+
+
+  <text id="ai.command.reply.meeting.findout.who.starts">
+    <en>The conversation has not started. Analyzing the context find out who should start the conversation</en>
+    <es>La conversación no ha comenzado. Analizando el contexto averigua quien debe empezar la conversación</es>
+    <de>Das Gespräch hat noch nicht begonnen. Analysiere den Kontext, um herauszufinden, wer das Gespräch beginnen sollte</de>
+    <fr>La conversation n’a pas commencé. Analysez le contexte pour déterminer qui doit commencer la conversation</fr>
+    <it>La conversazione non è ancora iniziata. Analizza il contesto per capire chi dovrebbe iniziare la conversazione</it>
+    <ru>Разговор еще не начался. Проанализируйте контекст, чтобы определить, кто должен начать разговор</ru>
+    <ca>La conversa no ha començat. Analitza el context per esbrinar qui hauria de començar la conversa</ca>
+  </text>
+
+  <!-- PROMPTS REQUEST -->
+  <text id="ai.command.describe.test.image">
+    <en>I want to from you to describe the image I'm providing in less than 200 words</en>
+    <es>Quiero que describas la imagen que te estoy proporcionando en menos de 200 palabras</es>
+    <de>Ich möchte, dass du das Bild, das ich dir gebe, in weniger als 200 Wörtern beschreibst</de>
+    <fr>Je veux que tu décrives l’image que je te fournis en moins de 200 mots</fr>
+    <it>Voglio che descrivi l’immagine che ti fornisco in meno di 200 parole</it>
+    <ru>Я хочу, чтобы ты описал изображение, которое я предоставляю, менее чем в 200 словах</ru>
+    <ca>Vull que descriguis la imatge que t’estic proporcionant en menys de 200 paraules</ca>
+  </text>
+
+  <text id="screen.imagen.gen.provide.image.with.resolution">
+    <en>Create the image with a resolution of ~</en>
+    <es>Crea la imagen con una resolucion de ~</es>
+    <de>Erstelle das Bild mit einer Auflösung von ~</de>
+    <fr>Crée l’image avec une résolution de ~</fr>
+    <it>Crea l’immagine con una risoluzione di ~</it>
+    <ru>Создай изображение с разрешением ~</ru>
+    <ca>Crea la imatge amb una resolució de ~</ca>
+  </text>
+
+  <text id="ai.command.summarize.doc">
+    <en>
+      I want to summarize a document in less than 200 words that is contained in the XML tag ~
+      #br#In order to fully understand the context I will provide with the next information:
+      #br#- I will provide the description the project that document belongs to inside the tag ~
+      #br#- I will provide the boards of the project's sprint that document belongs to inside the tag ~
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Quiero resumir un documento en menos de 200 palabras que está contenido en la etiqueta XML ~
+      #br#Para comprender completamente el contexto, proporcionaré la siguiente información:
+      #br#- Proporcionaré la descripción del proyecto al que pertenece el documento dentro de la etiqueta ~
+      #br#- Proporcionaré los tableros del sprint del proyecto al que pertenece el documento dentro de la etiqueta ~
+      #br#- Utiliza este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Ich möchte ein Dokument, das im XML-Tag ~ enthalten ist, in weniger als 200 Wörtern zusammenfassen.
+      #br#Um den Kontext vollständig zu verstehen, werde ich die folgenden Informationen bereitstellen:
+      #br#- Ich werde die Projektbeschreibung, zu der das Dokument gehört, im Tag ~ angeben
+      #br#- Ich werde die Boards des Projekt-Sprints, zu dem das Dokument gehört, im Tag ~ angeben
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      Je veux résumer un document en moins de 200 mots contenu dans la balise XML ~
+      #br#Pour bien comprendre le contexte, je fournirai les informations suivantes :
+      #br#- Je fournirai la description du projet auquel appartient le document dans la balise ~
+      #br#- Je fournirai les tableaux du sprint du projet auquel appartient le document dans la balise ~
+      #br#- Utilisez ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      Voglio riassumere un documento in meno di 200 parole contenuto nel tag XML ~
+      #br#Per comprendere appieno il contesto, fornirò le seguenti informazioni:
+      #br#- Fornirò la descrizione del progetto a cui appartiene il documento all’interno del tag ~
+      #br#- Fornirò le bacheche dello sprint del progetto a cui appartiene il documento all’interno del tag ~
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      Я хочу резюмировать документ менее чем в 200 словах, содержащийся в XML-теге ~
+      #br#Чтобы полностью понять контекст, я предоставлю следующую информацию:
+      #br#- Я предоставлю описание проекта, к которому относится документ, в теге ~
+      #br#- Я предоставлю доски спринта проекта, к которому относится документ, в теге ~
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Vull resumir un document en menys de 200 paraules contingut a l’etiqueta XML ~
+      #br#Per comprendre completament el context, proporcionaré la informació següent:
+      #br#- Proporcionaré la descripció del projecte al qual pertany el document dins l’etiqueta ~
+      #br#- Proporcionaré els taulers de l’sprint del projecte al qual pertany el document dins l’etiqueta ~
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.summarize.image">
+    <en>
+      I want to from you to describe the image I'm providing in less than 200 words.
+      #br#In order to fully understand the context I will provide with the next information:
+      #br#- I will provide the name and a short description image inside the tag ~
+      #br#- I will provide the description the project that document belongs to inside the tag ~
+      #br#- I will provide the boards of the project's sprint that document belongs to inside the tag ~
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Quiero que describas la imagen que te estoy proporcionando en menos de 200 palabras.
+      #br#Para comprender completamente el contexto, proporcionaré la siguiente información:
+      #br#- Proporcionaré el nombre y la descripción breve de la imagen dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto al que pertenece el documento dentro de la etiqueta ~
+      #br#- Proporcionaré los tableros del sprint del proyecto al que pertenece el documento dentro de la etiqueta ~
+      #br#- Utiliza este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Ich möchte, dass du das Bild, das ich dir gebe, in weniger als 200 Wörtern beschreibst.
+      #br#Um den Kontext vollständig zu verstehen, werde ich die folgenden Informationen bereitstellen:
+      #br#- Ich werde den Namen und eine kurze Beschreibung des Bildes im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des Projekts, zu dem das Dokument gehört, im Tag ~ angeben
+      #br#- Ich werde die Boards des Projekt-Sprints, zu dem das Dokument gehört, im Tag ~ angeben
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      Je veux que tu décrives l’image que je te fournis en moins de 200 mots.
+      #br#Pour bien comprendre le contexte, je fournirai les informations suivantes :
+      #br#- Je fournirai le nom et une courte description de l’image dans la balise ~
+      #br#- Je fournirai la description du projet auquel appartient le document dans la balise ~
+      #br#- Je fournirai les tableaux du sprint du projet auquel appartient le document dans la balise ~
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      Voglio che descrivi l’immagine che ti fornisco in meno di 200 parole.
+      #br#Per comprendere appieno il contesto, fornirò le seguenti informazioni:
+      #br#- Fornirò il nome e una breve descrizione dell’immagine nel tag ~
+      #br#- Fornirò la descrizione del progetto a cui appartiene il documento nel tag ~
+      #br#- Fornirò le bacheche dello sprint del progetto a cui appartiene il documento nel tag ~
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      Я хочу, чтобы ты описал изображение, которое я предоставляю, менее чем в 200 словах.
+      #br#Чтобы полностью понять контекст, я предоставлю следующую информацию:
+      #br#- Я предоставлю имя и краткое описание изображения в теге ~
+      #br#- Я предоставлю описание проекта, к которому относится документ, в теге ~
+      #br#- Я предоставлю доски спринта проекта, к которому относится документ, в теге ~
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Vull que descriguis la imatge que t’estic proporcionant en menys de 200 paraules.
+      #br#Per comprendre completament el context, proporcionaré la informació següent:
+      #br#- Proporcionaré el nom i una descripció breu de la imatge dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte al qual pertany el document dins l’etiqueta ~
+      #br#- Proporcionaré els taulers de l’sprint del projecte al qual pertany el document dins l’etiqueta ~
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.reply.meeting.of.task">
+    <en>
+      Following a roleplay game style generate the next response of a ~ meeting considering this information:
+      #br#- I will provide the meeting description inside the tag ~
+      #br#- I will provide the previous contributions of the conversation in order inside the tag  ~. The next generated response must belong to a different participant of the meeting but never from the participant controlled by human.
+      #br#- I will provide the participants of this meeting to inside the tag ~
+      #br#- I will provide the descriptions of the previous meetings done inside the tag ~
+      #br#- I will provide the task connected to this meeting description inside the tag ~
+      #br#- I will provide the previous task connected to this one inside the tag ~
+      #br#- I will provide the project's documents to consider for this meeting inside the tag ~
+      #br#- I will provide the boards of the project's sprint that meeting belongs to inside the tag ~
+      #br#- I will provide the description the project that document meeting to inside the tag ~
+      #br#- The meeting should achieve conclusions and end at least after ~ contributions
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Siguiendo un estilo de juego de rol, genera la siguiente respuesta de una reunión ~ considerando esta información:
+      #br#- Proporcionaré la descripción de la reunión dentro de la etiqueta ~
+      #br#- Proporcionaré las contribuciones anteriores de la conversación en orden dentro de la etiqueta ~. La siguiente respuesta generada debe pertenecer a un participante diferente de la reunión, pero nunca al participante controlado por un humano.
+      #br#- Proporcionaré los participantes de esta reunión dentro de la etiqueta ~
+      #br#- Proporcionaré las descripciones de las reuniones anteriores realizadas dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción de la tarea relacionada con esta reunión dentro de la etiqueta ~
+      #br#- Proporcionaré la tarea anterior relacionada con esta dentro de la etiqueta ~
+      #br#- Proporcionaré los documentos del proyecto a considerar para esta reunión dentro de la etiqueta ~
+      #br#- Proporcionaré los tableros del sprint del proyecto al que pertenece la reunión dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto al que pertenece la reunión dentro de la etiqueta ~
+      #br#- La reunión debe alcanzar conclusiones y finalizar al menos después de ~ contribuciones
+      #br#- Usa este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Im Stil eines Rollenspiels generiere die nächste Antwort einer ~ Besprechung unter Berücksichtigung folgender Informationen:
+      #br#- Ich werde die Beschreibung der Besprechung im Tag ~ angeben
+      #br#- Ich werde die bisherigen Beiträge des Gesprächs in Reihenfolge im Tag ~ angeben. Die nächste generierte Antwort muss von einem anderen Teilnehmer der Besprechung stammen, jedoch niemals vom menschlich gesteuerten Teilnehmer.
+      #br#- Ich werde die Teilnehmer dieser Besprechung im Tag ~ angeben
+      #br#- Ich werde die Beschreibungen der bisherigen Besprechungen im Tag ~ angeben
+      #br#- Ich werde die mit dieser Besprechung verbundene Aufgabe im Tag ~ angeben
+      #br#- Ich werde die vorherige, mit dieser verbundene Aufgabe im Tag ~ angeben
+      #br#- Ich werde die Projektdokumente, die für diese Besprechung berücksichtigt werden sollen, im Tag ~ angeben
+      #br#- Ich werde die Boards des Projekt-Sprints, zu dem die Besprechung gehört, im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des Projekts, zu dem die Besprechung gehört, im Tag ~ angeben
+      #br#- Die Besprechung sollte zu Schlussfolgerungen kommen und nach mindestens ~ Beiträgen enden
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      En suivant un style de jeu de rôle, génère la prochaine réponse d’une réunion ~ en tenant compte des informations suivantes :
+      #br#- Je fournirai la description de la réunion dans la balise ~
+      #br#- Je fournirai les contributions précédentes de la conversation dans l’ordre dans la balise ~. La prochaine réponse générée doit appartenir à un participant différent de la réunion, mais jamais au participant contrôlé par un humain.
+      #br#- Je fournirai les participants de cette réunion dans la balise ~
+      #br#- Je fournirai les descriptions des réunions précédentes effectuées dans la balise ~
+      #br#- Je fournirai la description de la tâche liée à cette réunion dans la balise ~
+      #br#- Je fournirai la tâche précédente liée à celle-ci dans la balise ~
+      #br#- Je fournirai les documents du projet à considérer pour cette réunion dans la balise ~
+      #br#- Je fournirai les tableaux du sprint du projet auquel appartient la réunion dans la balise ~
+      #br#- Je fournirai la description du projet auquel appartient la réunion dans la balise ~
+      #br#- La réunion doit parvenir à des conclusions et se terminer après au moins ~ contributions
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      Seguendo uno stile da gioco di ruolo, genera la prossima risposta di una riunione ~ considerando le seguenti informazioni:
+      #br#- Fornirò la descrizione della riunione all’interno del tag ~
+      #br#- Fornirò i contributi precedenti della conversazione in ordine nel tag ~. La prossima risposta generata deve appartenere a un partecipante diverso della riunione, ma mai a quello controllato dall’uomo.
+      #br#- Fornirò i partecipanti di questa riunione nel tag ~
+      #br#- Fornirò le descrizioni delle riunioni precedenti nel tag ~
+      #br#- Fornirò la descrizione del compito collegato a questa riunione nel tag ~
+      #br#- Fornirò il compito precedente collegato a questo nel tag ~
+      #br#- Fornirò i documenti del progetto da considerare per questa riunione nel tag ~
+      #br#- Fornirò le bacheche dello sprint del progetto a cui appartiene la riunione nel tag ~
+      #br#- Fornirò la descrizione del progetto a cui appartiene la riunione nel tag ~
+      #br#- La riunione dovrebbe raggiungere delle conclusioni e terminare dopo almeno ~ contributi
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      В стиле ролевой игры сгенерируй следующий ответ на встречу ~, учитывая следующую информацию:
+      #br#- Я предоставлю описание встречи в теге ~
+      #br#- Я предоставлю предыдущие вклады беседы по порядку в теге ~. Следующий сгенерированный ответ должен принадлежать другому участнику встречи, но никогда не участнику, управляемому человеком.
+      #br#- Я предоставлю участников этой встречи в теге ~
+      #br#- Я предоставлю описания предыдущих встреч в теге ~
+      #br#- Я предоставлю задачу, связанную с этой встречей, в теге ~
+      #br#- Я предоставлю предыдущую задачу, связанную с этой, в теге ~
+      #br#- Я предоставлю документы проекта, которые нужно учитывать для этой встречи, в теге ~
+      #br#- Я предоставлю доски спринта проекта, к которому принадлежит встреча, в теге ~
+      #br#- Я предоставлю описание проекта, к которому принадлежит встреча, в теге ~
+      #br#- Встреча должна прийти к выводам и завершиться после как минимум ~ вкладов
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Seguint un estil de joc de rol, genera la següent resposta d’una reunió ~ considerant aquesta informació:
+      #br#- Proporcionaré la descripció de la reunió dins l’etiqueta ~
+      #br#- Proporcionaré les contribucions anteriors de la conversa en ordre dins l’etiqueta ~. La següent resposta generada ha de pertànyer a un participant diferent de la reunió, però mai al participant controlat per un humà.
+      #br#- Proporcionaré els participants d’aquesta reunió dins l’etiqueta ~
+      #br#- Proporcionaré les descripcions de les reunions anteriors realitzades dins l’etiqueta ~
+      #br#- Proporcionaré la descripció de la tasca relacionada amb aquesta reunió dins l’etiqueta ~
+      #br#- Proporcionaré la tasca anterior relacionada amb aquesta dins l’etiqueta ~
+      #br#- Proporcionaré els documents del projecte a considerar per aquesta reunió dins l’etiqueta ~
+      #br#- Proporcionaré els taulers del sprint del project al que pertany la reunió dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte al qual pertany el document dins l’etiqueta ~
+      #br#- La reunió ha d'arriabar a unes conclusions i finalitzar al menys despres de ~ contribucions
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.reply.meeting.iterations.sentence">
+    <en>conclusions and end at least after</en>
+    <es>conclusiones y final al menos hasta después</es>
+    <de>Schlussfolgerungen und beende mindestens nach</de>
+    <fr>conclusions et termine au moins après</fr>
+    <it>conclusioni e termina almeno dopo</it>
+    <ru>выводы и завершить как минимум после</ru>
+    <ca>conclusions i finalitza almenys després de</ca>
+  </text>
+
+  <text id="ai.command.summarize.meeting.conversation">
+    <en>
+      I would like to get a text summary of the conversation done for a meeting and the most important new documents that have to be created next considering this information:
+      #br#- I will provide the complete conversation of this meeting inside the tag  ~
+      #br#- I will provide the participants of this meeting to inside the tag ~
+      #br#- I will provide the meeting description inside the tag ~
+      #br#- I will provide the task connected to this meeting description inside the tag ~
+      #br#- I will provide the previous task connected to this one inside the tag ~
+      #br#- I will provide the project's documents with information to consider in this meeting inside the tag ~
+      #br#- I will provide the boards of the project's sprint that meeting belongs to inside the tag ~
+      #br#- I will provide the description the project that meeting belongs to inside the tag ~
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Me gustaría obtener un resumen de texto de la conversación realizada para una reunión y los nuevos documentos más importantes que deben crearse a continuación, teniendo en cuenta esta información:
+      #br#- Proporcionaré la conversación completa de esta reunión dentro de la etiqueta ~
+      #br#- Proporcionaré los participantes de esta reunión dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción de la reunión dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción de la tarea relacionada con esta reunión dentro de la etiqueta ~
+      #br#- Proporcionaré la tarea anterior relacionada con esta dentro de la etiqueta ~
+      #br#- Proporcionaré los documentos del proyecto con información a considerar en esta reunión dentro de la etiqueta ~
+      #br#- Proporcionaré los tableros del sprint del proyecto al que pertenece la reunión dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto al que pertenece la reunión dentro de la etiqueta ~
+      #br#- Utiliza este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Ich möchte eine textuelle Zusammenfassung des Gesprächs einer Besprechung sowie die wichtigsten neuen Dokumente erhalten, die als Nächstes erstellt werden müssen, unter Berücksichtigung der folgenden Informationen:
+      #br#- Ich werde das vollständige Gespräch dieser Besprechung im Tag ~ angeben
+      #br#- Ich werde die Teilnehmer dieser Besprechung im Tag ~ angeben
+      #br#- Ich werde die Beschreibung der Besprechung im Tag ~ angeben
+      #br#- Ich werde die mit dieser Besprechung verbundene Aufgabe im Tag ~ angeben
+      #br#- Ich werde die vorherige, damit verbundene Aufgabe im Tag ~ angeben
+      #br#- Ich werde die Projektdokumente mit relevanten Informationen für diese Besprechung im Tag ~ angeben
+      #br#- Ich werde die Boards des Projekt-Sprints, zu dem die Besprechung gehört, im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des Projekts, zu dem die Besprechung gehört, im Tag ~ angeben
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      Je souhaite obtenir un résumé textuel de la conversation tenue lors d’une réunion et les nouveaux documents les plus importants à créer ensuite, en tenant compte des informations suivantes :
+      #br#- Je fournirai la conversation complète de cette réunion dans la balise ~
+      #br#- Je fournirai les participants de cette réunion dans la balise ~
+      #br#- Je fournirai la description de la réunion dans la balise ~
+      #br#- Je fournirai la description de la tâche liée à cette réunion dans la balise ~
+      #br#- Je fournirai la tâche précédente liée à celle-ci dans la balise ~
+      #br#- Je fournirai les documents du projet contenant les informations à considérer pour cette réunion dans la balise ~
+      #br#- Je fournirai les tableaux du sprint du projet auquel appartient la réunion dans la balise ~
+      #br#- Je fournirai la description du projet auquel appartient la réunion dans la balise ~
+      #br#- Utilisez ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      Vorrei ottenere un riassunto testuale della conversazione avvenuta durante una riunione e i nuovi documenti più importanti che dovranno essere creati successivamente, considerando le seguenti informazioni:
+      #br#- Fornirò la conversazione completa di questa riunione all’interno del tag ~
+      #br#- Fornirò i partecipanti di questa riunione all’interno del tag ~
+      #br#- Fornirò la descrizione della riunione all’interno del tag ~
+      #br#- Fornirò la descrizione del compito collegato a questa riunione all’interno del tag ~
+      #br#- Fornirò il compito precedente collegato a questo all’interno del tag ~
+      #br#- Fornirò i documenti del progetto con le informazioni da considerare per questa riunione all’interno del tag ~
+      #br#- Fornirò le bacheche dello sprint del progetto a cui appartiene la riunione all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto a cui appartiene la riunione all’interno del tag ~
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      Я хотел бы получить текстовое резюме беседы, проведенной на встрече, и самые важные новые документы, которые необходимо создать далее, с учетом следующей информации:
+      #br#- Я предоставлю полную беседу этой встречи в теге ~
+      #br#- Я предоставлю участников этой встречи в теге ~
+      #br#- Я предоставлю описание встречи в теге ~
+      #br#- Я предоставлю задачу, связанную с этой встречей, в теге ~
+      #br#- Я предоставлю предыдущую задачу, связанную с этой, в теге ~
+      #br#- Я предоставлю документы проекта с информацией, которую нужно учитывать на этой встрече, в теге ~
+      #br#- Я предоставлю доски спринта проекта, к которому принадлежит встреча, в теге ~
+      #br#- Я предоставлю описание проекта, к которому принадлежит встреча, в теге ~
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      M’agradaria obtenir un resum de text de la conversa feta per a una reunió i els nous documents més importants que s’han de crear a continuació, tenint en compte aquesta informació:
+      #br#- Proporcionaré la conversa completa d’aquesta reunió dins l’etiqueta ~
+      #br#- Proporcionaré els participants d’aquesta reunió dins l’etiqueta ~
+      #br#- Proporcionaré la descripció de la reunió dins l’etiqueta ~
+      #br#- Proporcionaré la descripció de la tasca vinculada a aquesta reunió dins l’etiqueta ~
+      #br#- Proporcionaré la tasca anterior vinculada a aquesta dins l’etiqueta ~
+      #br#- Proporcionaré els documents del projecte amb informació a considerar en aquesta reunió dins l’etiqueta ~
+      #br#- Proporcionaré els taulers de l’sprint del projecte al qual pertany la reunió dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte al qual pertany la reunió dins l’etiqueta ~
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="screen.chat.ai.asking.ai.generic">
+    <en>
+      I will be asking you the question contained in the XML tag ~ in regards to a project sprint described by the next information:
+      #br#- I will provide the employees of this company to inside the tag ~
+      #br#- I will provide the meetings planned for the current project's sprint to inside the tag ~
+      #br#- I will provide the documents related to the current project's sprint inside the tag ~
+      #br#- I will provide the boards of the current project's sprint inside the tag ~
+      #br#- I will provide the description the current project to inside the tag ~
+    </en>
+    <es>
+      Te haré la pregunta contenida en la etiqueta XML ~ en relación con un sprint de proyecto descrito con la siguiente información:
+      #br#- Proporcionaré los empleados de esta empresa dentro de la etiqueta ~
+      #br#- Proporcionaré las reuniones planificadas para el sprint del proyecto actual dentro de la etiqueta ~
+      #br#- Proporcionaré los documentos relacionados con el sprint del proyecto actual dentro de la etiqueta ~
+      #br#- Proporcionaré los tableros del sprint del proyecto actual dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto actual dentro de la etiqueta ~
+    </es>
+    <de>
+      Ich werde dir die Frage stellen, die im XML-Tag ~ enthalten ist, in Bezug auf einen Projektsprint, der durch die folgenden Informationen beschrieben wird:
+      #br#- Ich werde die Mitarbeiter dieses Unternehmens im Tag ~ angeben
+      #br#- Ich werde die geplanten Besprechungen für den aktuellen Projektsprint im Tag ~ angeben
+      #br#- Ich werde die mit dem aktuellen Projektsprint verbundenen Dokumente im Tag ~ angeben
+      #br#- Ich werde die Boards des aktuellen Projektsprints im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des aktuellen Projekts im Tag ~ angeben
+    </de>
+    <fr>
+      Je vais te poser la question contenue dans la balise XML ~ concernant un sprint de projet décrit par les informations suivantes :
+      #br#- Je fournirai les employés de cette entreprise dans la balise ~
+      #br#- Je fournirai les réunions prévues pour le sprint du projet actuel dans la balise ~
+      #br#- Je fournirai les documents liés au sprint du projet actuel dans la balise ~
+      #br#- Je fournirai les tableaux du sprint du projet actuel dans la balise ~
+      #br#- Je fournirai la description du projet actuel dans la balise ~
+    </fr>
+    <it>
+      Ti farò la domanda contenuta nel tag XML ~ in relazione a uno sprint di progetto descritto dalle seguenti informazioni:
+      #br#- Fornirò i dipendenti di questa azienda all’interno del tag ~
+      #br#- Fornirò le riunioni pianificate per lo sprint del progetto attuale all’interno del tag ~
+      #br#- Fornirò i documenti relativi allo sprint del progetto attuale all’interno del tag ~
+      #br#- Fornirò le bacheche dello sprint del progetto attuale all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto attuale all’interno del tag ~
+    </it>
+    <ru>
+      Я задам тебе вопрос, содержащийся в XML-теге ~, касающийся проектного спринта, описанного следующей информацией:
+      #br#- Я предоставлю сотрудников этой компании в теге ~
+      #br#- Я предоставлю запланированные встречи для текущего спринта проекта в теге ~
+      #br#- Я предоставлю документы, связанные с текущим спринтом проекта, в теге ~
+      #br#- Я предоставлю доски текущего спринта проекта в теге ~
+      #br#- Я предоставлю описание текущего проекта в теге ~
+    </ru>
+    <ca>
+      Et faré la pregunta continguda a l’etiqueta XML ~ en relació amb un sprint de projecte descrit per la informació següent:
+      #br#- Proporcionaré els empleats d’aquesta empresa dins l’etiqueta ~
+      #br#- Proporcionaré les reunions planificades per a l’sprint del projecte actual dins l’etiqueta ~
+      #br#- Proporcionaré els documents relacionats amb l’sprint del projecte actual dins l’etiqueta ~
+      #br#- Proporcionaré els taulers de l’sprint del projecte actual dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte actual dins l’etiqueta ~
+    </ca>
+  </text>
+
+  <text id="screen.chat.ai.asking.ai.new.question.with.previous.history">
+    <en>
+      I will be asking you a new question contained in the XML tag ~.
+      #br#- I'm providing you with the history of the conversation so far contained inside the XML tag ~.
+      #br#- I'm providing you the initial information about the whole text contained inside the XML tag ~.
+    </en>
+    <es>
+      Te haré una nueva pregunta contenida en la etiqueta XML ~.
+      #br#- Te proporciono el historial de la conversación hasta el momento, contenido en la etiqueta XML ~.
+      #br#- Te proporciono la información inicial sobre todo el texto contenido en la etiqueta XML ~.
+    </es>
+    <de>
+      Ich werde dir eine neue Frage stellen, die im XML-Tag ~ enthalten ist.
+      #br#- Ich stelle dir den bisherigen Gesprächsverlauf zur Verfügung, der im XML-Tag ~ enthalten ist.
+      #br#- Ich stelle dir die Anfangsinformationen über den gesamten Text zur Verfügung, die im XML-Tag ~ enthalten sind.
+    </de>
+    <fr>
+      Je vais te poser une nouvelle question contenue dans la balise XML ~.
+      #br#- Je te fournis l’historique de la conversation jusqu’à présent, contenu dans la balise XML ~.
+      #br#- Je te fournis les informations initiales concernant l’ensemble du texte contenues dans la balise XML ~.
+    </fr>
+    <it>
+      Ti porrò una nuova domanda contenuta nel tag XML ~.
+      #br#- Ti fornisco la cronologia della conversazione fino a questo momento, contenuta nel tag XML ~.
+      #br#- Ti fornisco le informazioni iniziali sull’intero testo contenute nel tag XML ~.
+    </it>
+    <ru>
+      Я задам тебе новый вопрос, содержащийся в XML-теге ~.
+      #br#- Я предоставляю историю разговора до этого момента, содержащуюся в XML-теге ~.
+      #br#- Я предоставляю начальную информацию обо всем тексте, содержащуюся в XML-теге ~.
+    </ru>
+    <ca>
+      Et faré una nova pregunta continguda a l’etiqueta XML ~.
+      #br#- Et proporciono l’historial de la conversa fins ara, contingut a l’etiqueta XML ~.
+      #br#- Et proporciono la informació inicial sobre tot el text contingut a l’etiqueta XML ~.
+    </ca>
+  </text>
+
+  <text id="ai.command.tasks.create.documents">
+    <en>
+      I would like define the most important new documents that have to be created to complete this task:
+      #br#- I will provide the task description inside the tag ~
+      #br#- I will provide the previous task connected to this one inside the tag ~
+      #br#- I will provide the employees assigned to this task inside the tag ~
+      #br#- I will provide the project's documents with information to complete this task inside the tag ~
+      #br#- I will provide the boards of the project's sprint the task belongs to inside the tag ~
+      #br#- I will provide the description the project the task belongs to inside the tag ~
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Me gustaría definir los documentos nuevos más importantes que deben crearse para completar esta tarea:
+      #br#- Proporcionaré la descripción de la tarea dentro de la etiqueta ~
+      #br#- Proporcionaré la tarea anterior relacionada con esta dentro de la etiqueta ~
+      #br#- Proporcionaré los empleados asignados a esta tarea dentro de la etiqueta ~
+      #br#- Proporcionaré los documentos del proyecto con información para completar esta tarea dentro de la etiqueta ~
+      #br#- Proporcionaré los tableros del sprint del proyecto al que pertenece la tarea dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto al que pertenece la tarea dentro de la etiqueta ~
+      #br#- Usa este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Ich möchte die wichtigsten neuen Dokumente definieren, die erstellt werden müssen, um diese Aufgabe abzuschließen:
+      #br#- Ich werde die Aufgabenbeschreibung im Tag ~ angeben
+      #br#- Ich werde die vorherige, mit dieser verbundene Aufgabe im Tag ~ angeben
+      #br#- Ich werde die dieser Aufgabe zugewiesenen Mitarbeiter im Tag ~ angeben
+      #br#- Ich werde die Projektdokumente mit Informationen zur Erfüllung dieser Aufgabe im Tag ~ angeben
+      #br#- Ich werde die Boards des Projekt-Sprints, zu dem die Aufgabe gehört, im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des Projekts, zu dem die Aufgabe gehört, im Tag ~ angeben
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      Je souhaite définir les nouveaux documents les plus importants à créer pour accomplir cette tâche :
+      #br#- Je fournirai la description de la tâche dans la balise ~
+      #br#- Je fournirai la tâche précédente liée à celle-ci dans la balise ~
+      #br#- Je fournirai les employés assignés à cette tâche dans la balise ~
+      #br#- Je fournirai les documents du projet contenant les informations nécessaires pour accomplir cette tâche dans la balise ~
+      #br#- Je fournirai les tableaux du sprint du projet auquel appartient la tâche dans la balise ~
+      #br#- Je fournirai la description du projet auquel appartient la tâche dans la balise ~
+      #br#- Utilisez ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      Vorrei definire i nuovi documenti più importanti che devono essere creati per completare questo compito:
+      #br#- Fornirò la descrizione del compito all’interno del tag ~
+      #br#- Fornirò il compito precedente collegato a questo all’interno del tag ~
+      #br#- Fornirò i dipendenti assegnati a questo compito all’interno del tag ~
+      #br#- Fornirò i documenti del progetto con le informazioni necessarie per completare questo compito all’interno del tag ~
+      #br#- Fornirò le bacheche dello sprint del progetto a cui appartiene il compito all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto a cui appartiene il compito all’interno del tag ~
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      Я хотел бы определить самые важные новые документы, которые необходимо создать для выполнения этой задачи:
+      #br#- Я предоставлю описание задачи в теге ~
+      #br#- Я предоставлю предыдущую задачу, связанную с этой, в теге ~
+      #br#- Я предоставлю сотрудников, назначенных на эту задачу, в теге ~
+      #br#- Я предоставлю документы проекта с информацией для выполнения этой задачи в теге ~
+      #br#- Я предоставлю доски спринта проекта, к которому принадлежит задача, в теге ~
+      #br#- Я предоставлю описание проекта, к которому принадлежит задача, в теге ~
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      M’agradaria definir els documents nous més importants que s’han de crear per completar aquesta tasca:
+      #br#- Proporcionaré la descripció de la tasca dins l’etiqueta ~
+      #br#- Proporcionaré la tasca anterior vinculada a aquesta dins l’etiqueta ~
+      #br#- Proporcionaré els empleats assignats a aquesta tasca dins l’etiqueta ~
+      #br#- Proporcionaré els documents del projecte amb informació per completar aquesta tasca dins l’etiqueta ~
+      #br#- Proporcionaré els taulers de l’sprint del projecte al qual pertany la tasca dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte al qual pertany la tasca dins l’etiqueta ~
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.tasks.create.single.full.document">
+    <en>
+      I need to create a detailed document for a project I'm developing based on the next information:
+      #br#- I will provide the name and short description of the document inside the tag ~
+      #br#- If the document is of the type (~) you will use a list to properly detail the information
+      #br#- If the document is of the type (~) you will use a list to describe the different parts of the design
+      #br#- If the document is of the type (~) you will provide code implementing the description
+      #br#- If the document is of the type (~) you will use a list to describe the testing process to verify the result
+      #br#- I will provide the task description where this document was defined inside the tag ~
+      #br#- I will provide the project's documents with information to help in the creation of the document inside the tag ~
+      #br#- I will provide the boards of the project's sprint the task belongs to inside the tag ~
+      #br#- I will provide the description the project the task belongs to inside the tag ~
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Necesito crear un documento detallado para un proyecto que estoy desarrollando, basado en la siguiente información:
+      #br#- Proporcionaré el nombre y una breve descripción del documento dentro de la etiqueta ~
+      #br#- Si el documento es del tipo (~), usarás una lista para detallar correctamente la información.
+      #br#- Si el documento es del tipo (~), usarás una lista para describir las diferentes partes del diseño.
+      #br#- Si el documento es del tipo (~), proporcionarás el código que implementa la descripción.
+      #br#- Si el documento es del tipo (~), usarás una lista para describir el proceso de prueba para verificar el resultado.
+      #br#- Proporcionaré la descripción de la tarea donde se definió este documento dentro de la etiqueta ~
+      #br#- Proporcionaré los documentos del proyecto con información para ayudar en la creación del documento dentro de la etiqueta ~
+      #br#- Proporcionaré los tableros del sprint del proyecto al que pertenece la tarea dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto al que pertenece la tarea dentro de la etiqueta etiqueta ~
+      #br#- Use este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Ich muss ein detailliertes Dokument für ein Projekt erstellen, das ich entwickle, basierend auf den folgenden Informationen:
+      #br#- Ich werde den Namen und eine kurze Beschreibung des Dokuments im Tag ~ angeben
+      #br#- Wenn das Dokument vom Typ (~) ist, verwende eine Liste, um die Informationen ordnungsgemäß zu detaillieren
+      #br#- Wenn das Dokument vom Typ (~) ist, verwende eine Liste, um die verschiedenen Teile des Designs zu beschreiben
+      #br#- Wenn das Dokument vom Typ (~) ist, stelle Code bereit, der die Beschreibung implementiert
+      #br#- Wenn das Dokument vom Typ (~) ist, verwende eine Liste, um den Testprozess zur Überprüfung des Ergebnisses zu beschreiben
+      #br#- Ich werde die Aufgabenbeschreibung, in der dieses Dokument definiert wurde, im Tag ~ angeben
+      #br#- Ich werde die Projektdokumente mit Informationen zur Unterstützung der Dokumenterstellung im Tag ~ angeben
+      #br#- Ich werde die Boards des Projekt-Sprints, zu dem die Aufgabe gehört, im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des Projekts, zu dem die Aufgabe gehört, im Tag ~ angeben
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      Je dois créer un document détaillé pour un projet que je développe, basé sur les informations suivantes :
+      #br#- Je fournirai le nom et une brève description du document dans la balise ~
+      #br#- Si le document est du type (~), tu utiliseras une liste pour détailler correctement les informations
+      #br#- Si le document est du type (~), tu utiliseras une liste pour décrire les différentes parties du design
+      #br#- Si le document est du type (~), tu fourniras le code implémentant la description
+      #br#- Si le document est du type (~), tu utiliseras une liste pour décrire le processus de test afin de vérifier le résultat
+      #br#- Je fournirai la description de la tâche où ce document a été défini dans la balise ~
+      #br#- Je fournirai les documents du projet contenant les informations nécessaires à la création du document dans la balise ~
+      #br#- Je fournirai les tableaux du sprint du projet auquel appartient la tâche dans la balise ~
+      #br#- Je fournirai la description du projet auquel appartient la tâche dans la balise ~
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      Devo creare un documento dettagliato per un progetto che sto sviluppando, basandomi sulle seguenti informazioni:
+      #br#- Fornirò il nome e una breve descrizione del documento all’interno del tag ~
+      #br#- Se il documento è di tipo (~), utilizzerai un elenco per dettagliare correttamente le informazioni
+      #br#- Se il documento è di tipo (~), utilizzerai un elenco per descrivere le diverse parti del design
+      #br#- Se il documento è di tipo (~), fornirai il codice che implementa la descrizione
+      #br#- Se il documento è di tipo (~), utilizzerai un elenco per descrivere il processo di test per verificare il risultato
+      #br#- Fornirò la descrizione del compito in cui è stato definito questo documento all’interno del tag ~
+      #br#- Fornirò i documenti del progetto con informazioni utili alla creazione del documento all’interno del tag ~
+      #br#- Fornirò le bacheche dello sprint del progetto a cui appartiene il compito all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto a cui appartiene il compito all’interno del tag ~
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      Мне нужно создать подробный документ для проекта, который я разрабатываю, на основе следующей информации:
+      #br#- Я предоставлю имя и краткое описание документа в теге ~
+      #br#- Если документ типа (~), используй список для детального описания информации
+      #br#- Если документ типа (~), используй список для описания различных частей дизайна
+      #br#- Если документ типа (~), предоставь код, реализующий описание
+      #br#- Если документ типа (~), используй список для описания процесса тестирования для проверки результата
+      #br#- Я предоставлю описание задачи, в которой был определён этот документ, в теге ~
+      #br#- Я предоставлю документы проекта с информацией, помогающей в создании документа, в теге ~
+      #br#- Я предоставлю доски спринта проекта, к которому принадлежит задача, в теге ~
+      #br#- Я предоставлю описание проекта, к которому принадлежит задача, в теге ~
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Necessito crear un document detallat per a un projecte que estic desenvolupant basant-me en la informació següent:
+      #br#- Proporcionaré el nom i una breu descripció del document dins l’etiqueta ~
+      #br#- Si el document és del tipus (~), utilitzaràs una llista per detallar correctament la informació
+      #br#- Si el document és del tipus (~), utilitzaràs una llista per descriure les diferents parts del disseny
+      #br#- Si el document és del tipus (~), proporcionaràs el codi que implementa la descripció
+      #br#- Si el document és del tipus (~), utilitzaràs una llista per descriure el procés de prova per verificar el resultat
+      #br#- Proporcionaré la descripció de la tasca on s’ha definit aquest document dins l’etiqueta ~
+      #br#- Proporcionaré els documents del projecte amb informació per ajudar a la creació del document dins l’etiqueta ~
+      #br#- Proporcionaré els taulers de l’sprint del projecte al qual pertany la tasca dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte al qual pertany la tasca dins l’etiqueta ~
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.tasks.create.single.full.image">
+    <en>
+      I need to create an image to help a teammate to understand the design of a feature for a project based on the next information:
+      #br#- I will provide the name and short description of the design inside the tag ~
+      #br#- I will provide the description the project the design belongs to inside the tag ~
+    </en>
+    <es>
+      Necesito crear una imagen para ayudar a un compañero de equipo a comprender el diseño de una función para un proyecto con base en la siguiente información:
+      #br#- Proporcionaré el nombre y una breve descripción del diseño dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto al que pertenece el diseño dentro de la etiqueta ~
+    </es>
+    <de>
+      Ich muss ein Bild erstellen, um einem Teamkollegen zu helfen, das Design einer Funktion für ein Projekt zu verstehen, basierend auf den folgenden Informationen:
+      #br#- Ich werde den Namen und eine kurze Beschreibung des Designs im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des Projekts, zu dem das Design gehört, im Tag ~ angeben
+    </de>
+    <fr>
+      Je dois créer une image pour aider un coéquipier à comprendre la conception d’une fonctionnalité d’un projet en me basant sur les informations suivantes :
+      #br#- Je fournirai le nom et une brève description du design dans la balise ~
+      #br#- Je fournirai la description du projet auquel appartient le design dans la balise ~
+    </fr>
+    <it>
+      Devo creare un’immagine per aiutare un compagno di squadra a comprendere il design di una funzionalità di un progetto basandomi sulle seguenti informazioni:
+      #br#- Fornirò il nome e una breve descrizione del design all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto a cui appartiene il design all’interno del tag ~
+    </it>
+    <ru>
+      Мне нужно создать изображение, чтобы помочь коллеге понять дизайн функции для проекта на основе следующей информации:
+      #br#- Я предоставлю имя и краткое описание дизайна в теге ~
+      #br#- Я предоставлю описание проекта, к которому относится дизайн, в теге ~
+    </ru>
+    <ca>
+      Necessito crear una imatge per ajudar un company d’equip a entendre el disseny d’una funció per a un projecte basant-me en la informació següent:
+      #br#- Proporcionaré el nom i una breu descripció del disseny dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte al qual pertany el disseny dins l’etiqueta ~
+    </ca>
+  </text>
+
+  <text id="ai.command.summarize.task.completed">
+    <en>
+      I would like to get a detailed text summary of a completed task for a project considering this information:
+      #br#- I will provide the task description inside the tag ~
+      #br#- I will provide the documents that have been created to complete this task inside the tag ~
+      #br#- I will provide the participants of this meeting to inside the tag ~
+      #br#- I will provide the boards of the project's sprint that meeting belongs to inside the tag ~
+      #br#- I will provide the description the project that meeting belongs to inside the tag ~
+    </en>
+    <es>
+      Me gustaría obtener un resumen de texto detallado de una tarea completada para un proyecto considerando esta información:
+      #br#- Proporcionaré la descripción de la tarea dentro de la etiqueta ~
+      #br#- Proporcionaré los documentos creados para completar esta tarea dentro de la etiqueta ~
+      #br#- Proporcionaré los participantes de esta reunión dentro de la etiqueta ~
+      #br#- Proporcionaré los tableros del sprint del proyecto al que pertenece esa reunión dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto al que pertenece esa reunión dentro de la etiqueta ~
+    </es>
+    <de>
+      Ich möchte eine detaillierte textuelle Zusammenfassung einer abgeschlossenen Aufgabe für ein Projekt erhalten, unter Berücksichtigung der folgenden Informationen:
+      #br#- Ich werde die Aufgabenbeschreibung im Tag ~ angeben
+      #br#- Ich werde die Dokumente angeben, die erstellt wurden, um diese Aufgabe abzuschließen, im Tag ~
+      #br#- Ich werde die Teilnehmer dieser Besprechung im Tag ~ angeben
+      #br#- Ich werde die Boards des Projekt-Sprints, zu dem die Besprechung gehört, im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des Projekts, zu dem die Besprechung gehört, im Tag ~ angeben
+    </de>
+    <fr>
+      Je souhaite obtenir un résumé textuel détaillé d’une tâche terminée pour un projet en tenant compte des informations suivantes :
+      #br#- Je fournirai la description de la tâche dans la balise ~
+      #br#- Je fournirai les documents créés pour accomplir cette tâche dans la balise ~
+      #br#- Je fournirai les participants de cette réunion dans la balise ~
+      #br#- Je fournirai les tableaux du sprint du projet auquel appartient la réunion dans la balise ~
+      #br#- Je fournirai la description du projet auquel appartient la réunion dans la balise ~
+    </fr>
+    <it>
+      Vorrei ottenere un riassunto testuale dettagliato di un compito completato per un progetto, considerando le seguenti informazioni:
+      #br#- Fornirò la descrizione del compito all’interno del tag ~
+      #br#- Fornirò i documenti creati per completare questo compito all’interno del tag ~
+      #br#- Fornirò i partecipanti di questa riunione all’interno del tag ~
+      #br#- Fornirò le bacheche dello sprint del progetto a cui appartiene la riunione all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto a cui appartiene la riunione all’interno del tag ~
+    </it>
+    <ru>
+      Я хотел бы получить подробное текстовое резюме завершённой задачи проекта с учётом следующей информации:
+      #br#- Я предоставлю описание задачи в теге ~
+      #br#- Я предоставлю документы, созданные для выполнения этой задачи, в теге ~
+      #br#- Я предоставлю участников этой встречи в теге ~
+      #br#- Я предоставлю доски спринта проекта, к которому относится встреча, в теге ~
+      #br#- Я предоставлю описание проекта, к которому относится встреча, в теге ~
+    </ru>
+    <ca>
+      M’agradaria obtenir un resum de text detallat d’una tasca completada per a un projecte tenint en compte la informació següent:
+      #br#- Proporcionaré la descripció de la tasca dins l’etiqueta ~
+      #br#- Proporcionaré els documents creats per completar aquesta tasca dins l’etiqueta ~
+      #br#- Proporcionaré els participants d’aquesta reunió dins l’etiqueta ~
+      #br#- Proporcionaré els taulers de l’sprint del projecte al qual pertany la reunió dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte al qual pertany la reunió dins l’etiqueta ~
+    </ca>
+  </text>
+
+  <text id="ai.command.summarize.make.globals.for.task">
+    <en>
+      I need you to find out if any of the documents created by a task are going to be needed in future tasks of the project.
+      #br#- I will provide the documents that have been created by this task inside the tag ~
+      #br#- I will provide the task summary inside the tag ~
+      #br#- I will provide the future tasks to do inside the tag ~
+      #br#- I will provide the boards of the project's sprint that meeting belongs to inside the tag ~
+      #br#- I will provide the description the project that meeting belongs to inside the tag ~
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Necesito que averigües si alguno de los documentos creados por una tarea será necesario en futuras tareas del proyecto.
+      #br#- Proporcionaré los documentos creados por esta tarea dentro de la etiqueta ~
+      #br#- Proporcionaré el resumen de la tarea dentro de la etiqueta ~
+      #br#- Proporcionaré las futuras tareas a realizar dentro de la etiqueta ~
+      #br#- Proporcionaré los tableros del sprint del proyecto al que pertenece la reunión dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto al que pertenece la reunión dentro de la etiqueta ~
+      #br#- Usa este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Ich muss herausfinden, ob eines der von einer Aufgabe erstellten Dokumente in zukünftigen Aufgaben des Projekts benötigt wird.
+      #br#- Ich werde die von dieser Aufgabe erstellten Dokumente im Tag ~ angeben
+      #br#- Ich werde die Zusammenfassung der Aufgabe im Tag ~ angeben
+      #br#- Ich werde die zukünftigen Aufgaben im Tag ~ angeben
+      #br#- Ich werde die Boards des Projekt-Sprints, zu dem die Besprechung gehört, im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des Projekts, zu dem die Besprechung gehört, im Tag ~ angeben
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      J’ai besoin que tu détermines si l’un des documents créés par une tâche sera nécessaire pour les futures tâches du projet.
+      #br#- Je fournirai les documents créés par cette tâche dans la balise ~
+      #br#- Je fournirai le résumé de la tâche dans la balise ~
+      #br#- Je fournirai les futures tâches à effectuer dans la balise ~
+      #br#- Je fournirai les tableaux du sprint du projet auquel appartient la réunion dans la balise ~
+      #br#- Je fournirai la description du projet auquel appartient la réunion dans la balise ~
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      Ho bisogno che tu verifichi se uno dei documenti creati da un compito sarà necessario per i compiti futuri del progetto.
+      #br#- Fornirò i documenti creati da questo compito all’interno del tag ~
+      #br#- Fornirò il riassunto del compito all’interno del tag ~
+      #br#- Fornirò i compiti futuri da svolgere all’interno del tag ~
+      #br#- Fornirò le bacheche dello sprint del progetto a cui appartiene la riunione all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto a cui appartiene la riunione all’interno del tag ~
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      Мне нужно, чтобы ты выяснил, будут ли какие-либо документы, созданные этой задачей, нужны для будущих задач проекта.
+      #br#- Я предоставлю документы, созданные этой задачей, в теге ~
+      #br#- Я предоставлю краткое описание задачи в теге ~
+      #br#- Я предоставлю будущие задачи, которые нужно выполнить, в теге ~
+      #br#- Я предоставлю доски спринта проекта, к которому относится встреча, в теге ~
+      #br#- Я предоставлю описание проекта, к которому относится встреча, в теге ~
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Necessito que esbrinis si algun dels documents creats per una tasca serà necessari en futures tasques del projecte.
+      #br#- Proporcionaré els documents creats per aquesta tasca dins l’etiqueta ~
+      #br#- Proporcionaré el resum de la tasca dins l’etiqueta ~
+      #br#- Proporcionaré les futures tasques a realitzar dins l’etiqueta ~
+      #br#- Proporcionaré els taulers de l’sprint del projecte al qual pertany la reunió dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte al qual pertany la reunió dins l’etiqueta ~
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.generation.board.theme">
+    <en>
+      Based on the information about a project and the employees working in it I would like you to define ~ ~ to be delivered in a Sprint of ~ ~ based in the next instructions:
+      #br#- I will provide the employees of this company inside the tag ~
+      #br#- I will provide the description the project inside the tag ~
+      #br#- Each project's feature should be described with at least 300 words long.
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Con base en la información sobre un proyecto y los empleados que trabajan en él, me gustaría que definieras ~ ~ para que se entregue en un Sprint de ~ ~ según las siguientes instrucciones:
+      #br#- Proporcionaré los empleados de esta empresa dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto dentro de la etiqueta ~
+      #br#- Cada funcionalidad del proyecto debe describirse con al menos 300 palabras.
+      #br#- Usa este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Basierend auf den Informationen über ein Projekt und die daran arbeitenden Mitarbeiter möchte ich, dass du ~ ~ definierst, die in einem Sprint von ~ ~ geliefert werden sollen, basierend auf den folgenden Anweisungen:
+      #br#- Ich werde die Mitarbeiter dieses Unternehmens im Tag ~ angeben
+      #br#- Ich werde die Projektbeschreibung im Tag ~ angeben
+      #br#- Jede Projektfunktion sollte mit mindestens 300 Wörtern beschrieben werden.
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      En te basant sur les informations concernant un projet et les employés qui y travaillent, je voudrais que tu définisses ~ ~ à livrer dans un sprint de ~ ~ selon les instructions suivantes :
+      #br#- Je fournirai les employés de cette entreprise dans la balise ~
+      #br#- Je fournirai la description du projet dans la balise ~
+      #br#- Chaque fonctionnalité du projet doit être décrite en au moins 300 mots.
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      In base alle informazioni su un progetto e sui dipendenti che vi lavorano, vorrei che definissi ~ ~ da consegnare in uno sprint di ~ ~ seguendo le seguenti istruzioni:
+      #br#- Fornirò i dipendenti di questa azienda all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto all’interno del tag ~
+      #br#- Ogni funzionalità del progetto deve essere descritta con almeno 300 parole.
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      На основе информации о проекте и сотрудниках, работающих над ним, я хотел бы, чтобы ты определил ~ ~, которые должны быть выполнены в спринте ~ ~, согласно следующим инструкциям:
+      #br#- Я предоставлю сотрудников этой компании в теге ~
+      #br#- Я предоставлю описание проекта в теге ~
+      #br#- Каждая функция проекта должна быть описана не менее чем в 300 словах.
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Basant-me en la informació sobre un projecte i els empleats que hi treballen, m’agradaria que definissis ~ ~ per lliurar en un Sprint de ~ ~ segons les instruccions següents:
+      #br#- Proporcionaré els empleats d’aquesta empresa dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte dins l’etiqueta ~
+      #br#- Cada funcionalitat del projecte s’ha de descriure amb un mínim de 300 paraules.
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.generation.sprint.board.naming">
+    <en>
+      Based on the information about the features to implement for a project I would like you to define a name and a description for the Sprint based in the next instructions:
+      #br#- I will provide the ~ to implement for the Sprint inside the tag ~
+      #br#- I will provide the description the project inside the tag ~
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Con base en la información sobre las características a implementar en un proyecto, me gustaría que definieras un nombre y una descripción para el Sprint según las siguientes instrucciones:
+      #br#- Proporcionaré el ~ para implementar en el Sprint dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto dentro de la etiqueta ~
+      #br#- Usa este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Basierend auf den Informationen über die Funktionen, die in einem Projekt implementiert werden sollen, möchte ich, dass du einen Namen und eine Beschreibung für den Sprint definierst, basierend auf den folgenden Anweisungen:
+      #br#- Ich werde das ~, das im Sprint implementiert werden soll, im Tag ~ angeben
+      #br#- Ich werde die Projektbeschreibung im Tag ~ angeben
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      En te basant sur les informations concernant les fonctionnalités à implémenter pour un projet, je voudrais que tu définisses un nom et une description pour le sprint selon les instructions suivantes :
+      #br#- Je fournirai le ~ à implémenter pour le sprint dans la balise ~
+      #br#- Je fournirai la description du projet dans la balise ~
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      In base alle informazioni sulle funzionalità da implementare per un progetto, vorrei che definissi un nome e una descrizione per lo sprint secondo le seguenti istruzioni:
+      #br#- Fornirò il ~ da implementare per lo sprint all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto all’interno del tag ~
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      На основе информации о функциях, которые необходимо реализовать в проекте, я хотел бы, чтобы ты определил название и описание спринта в соответствии со следующими инструкциями:
+      #br#- Я предоставлю ~ для реализации в спринте в теге ~
+      #br#- Я предоставлю описание проекта в теге ~
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Basant-me en la informació sobre les funcionalitats a implementar en un projecte, m’agradaria que definissis un nom i una descripció per a l’Sprint segons les instruccions següents:
+      #br#- Proporcionaré el ~ per implementar a l’Sprint dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte dins l’etiqueta ~
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.generation.create.list.tasks">
+    <en>
+      I need you to identify the necessary tasks to do in order to complete a Sprint feature in ~ ~ considering the next information:
+      #br#- I will provide the general description of the feature to implement inside the tag ~
+      #br#- I will provide the employees of this company to inside the tag ~
+      #br#- I will provide the description the project inside the tag ~
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Necesito que identifiques las tareas necesarias para completar una función de Sprint en ~ ~ considerando la siguiente información:
+      #br#- Proporcionaré la descripción general de la función a implementar dentro de la etiqueta ~
+      #br#- Proporcionaré los empleados de esta empresa dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto dentro de la etiqueta ~
+      #br#- Usa este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Ich brauche dich, um die notwendigen Aufgaben zu identifizieren, die erledigt werden müssen, um eine Sprint-Funktion in ~ ~ abzuschließen, unter Berücksichtigung der folgenden Informationen:
+      #br#- Ich werde die allgemeine Beschreibung der zu implementierenden Funktion im Tag ~ angeben
+      #br#- Ich werde die Mitarbeiter dieses Unternehmens im Tag ~ angeben
+      #br#- Ich werde die Projektbeschreibung im Tag ~ angeben
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      J’ai besoin que tu identifies les tâches nécessaires pour compléter une fonctionnalité de sprint dans ~ ~ en tenant compte des informations suivantes :
+      #br#- Je fournirai la description générale de la fonctionnalité à implémenter dans la balise ~
+      #br#- Je fournirai les employés de cette entreprise dans la balise ~
+      #br#- Je fournirai la description du projet dans la balise ~
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      Ho bisogno che tu identifichi le attività necessarie per completare una funzionalità dello sprint in ~ ~ considerando le seguenti informazioni:
+      #br#- Fornirò la descrizione generale della funzionalità da implementare all’interno del tag ~
+      #br#- Fornirò i dipendenti di questa azienda all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto all’interno del tag ~
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      Мне нужно, чтобы ты определил необходимые задачи для завершения функции спринта в ~ ~ с учётом следующей информации:
+      #br#- Я предоставлю общее описание функции, которую нужно реализовать, в теге ~
+      #br#- Я предоставлю сотрудников этой компании в теге ~
+      #br#- Я предоставлю описание проекта в теге ~
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Necessito que identifiquis les tasques necessàries per completar una funcionalitat de l’sprint en ~ ~ tenint en compte la informació següent:
+      #br#- Proporcionaré la descripció general de la funcionalitat a implementar dins l’etiqueta ~
+      #br#- Proporcionaré els empleats d’aquesta empresa dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte dins l’etiqueta ~
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.generation.project.definition.naming">
+    <en>
+      Based on the information about a company and its employees I would like you to propose a project for this company following the next instructions:
+      #br#- I will provide the employees of this company inside the tag ~
+      #br#- I will provide the description of the company inside the tag ~
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Con base en la información sobre una empresa y sus empleados, me gustaría proponer un proyecto para esta empresa siguiendo las siguientes instrucciones:
+      #br#- Proporcionaré los empleados de esta empresa dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción de la empresa dentro de la etiqueta ~
+      #br#- Utiliza este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Basierend auf den Informationen über ein Unternehmen und seine Mitarbeiter möchte ich, dass du ein Projekt für dieses Unternehmen vorschlägst, nach den folgenden Anweisungen:
+      #br#- Ich werde die Mitarbeiter dieses Unternehmens im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des Unternehmens im Tag ~ angeben
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      En te basant sur les informations concernant une entreprise et ses employés, je voudrais que tu proposes un projet pour cette entreprise en suivant les instructions suivantes :
+      #br#- Je fournirai les employés de cette entreprise dans la balise ~
+      #br#- Je fournirai la description de l’entreprise dans la balise ~
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      In base alle informazioni su un’azienda e i suoi dipendenti, vorrei che proponessi un progetto per questa azienda seguendo le seguenti istruzioni:
+      #br#- Fornirò i dipendenti di questa azienda all’interno del tag ~
+      #br#- Fornirò la descrizione dell’azienda all’interno del tag ~
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      На основе информации о компании и её сотрудниках я хотел бы, чтобы ты предложил проект для этой компании, следуя следующим инструкциям:
+      #br#- Я предоставлю сотрудников этой компании в теге ~
+      #br#- Я предоставлю описание компании в теге ~
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Basant-me en la informació sobre una empresa i els seus empleats, m’agradaria que proposéssis un projecte per a aquesta empresa seguint les instruccions següents:
+      #br#- Proporcionaré els empleats d’aquesta empresa dins l’etiqueta ~
+      #br#- Proporcionaré la descripció de l’empresa dins l’etiqueta ~
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.generation.meetings.definition.for.tasks">
+    <en>
+      Based on the information of the tasks to implement a feature for a Sprint I need you to define the list of meetings to organize following the next instructions:
+      #br#- I will provide the information about the tasks alongside the people assigned to it inside the tag ~
+      #br#- I will provide the employees, some of them, may need to participate in the meeting inside the tag ~
+      #br#- I will provide the description of the feature we need to implement inside the tag ~
+      #br#- I will provide the description of the whole project inside the tag ~
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Con base en la información de las tareas para implementar una funcionalidad en un sprint, necesito que definas la lista de reuniones que se organizarán siguiendo las siguientes instrucciones:
+      #br#- Proporcionaré la información sobre las tareas y las personas asignadas a ellas dentro de la etiqueta ~
+      #br#- Proporcionaré los empleados donde, algunos de ellos, podrían necesitar para participar en la reunión dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción de la funcionalidad que necesitamos implementar dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción de todo el proyecto dentro de la etiqueta ~
+      #br#- Usa este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Basierend auf den Informationen über die Aufgaben zur Implementierung einer Funktion für einen Sprint musst du die Liste der zu organisierenden Besprechungen definieren, gemäß den folgenden Anweisungen:
+      #br#- Ich werde die Informationen über die Aufgaben zusammen mit den zugewiesenen Personen im Tag ~ angeben
+      #br#- Ich werde die Mitarbeiter angeben, von denen einige möglicherweise an der Besprechung teilnehmen müssen, im Tag ~
+      #br#- Ich werde die Beschreibung der zu implementierenden Funktion im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des gesamten Projekts im Tag ~ angeben
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      En te basant sur les informations concernant les tâches nécessaires pour implémenter une fonctionnalité d’un sprint, je veux que tu définisses la liste des réunions à organiser selon les instructions suivantes :
+      #br#- Je fournirai les informations sur les tâches et les personnes qui y sont assignées dans la balise ~
+      #br#- Je fournirai les employés dont certains pourraient avoir besoin de participer à la réunion dans la balise ~
+      #br#- Je fournirai la description de la fonctionnalité que nous devons implémenter dans la balise ~
+      #br#- Je fournirai la description complète du projet dans la balise ~
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      In base alle informazioni relative alle attività per implementare una funzionalità in uno sprint, ho bisogno che tu definisca l’elenco delle riunioni da organizzare seguendo le seguenti istruzioni:
+      #br#- Fornirò le informazioni sulle attività insieme alle persone assegnate ad esse all’interno del tag ~
+      #br#- Fornirò i dipendenti, alcuni dei quali potrebbero dover partecipare alla riunione, all’interno del tag ~
+      #br#- Fornirò la descrizione della funzionalità che dobbiamo implementare all’interno del tag ~
+      #br#- Fornirò la descrizione dell’intero progetto all’interno del tag ~
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      На основе информации о задачах для реализации функции в рамках спринта мне нужно, чтобы ты определил список встреч, которые нужно организовать, следуя следующим инструкциям:
+      #br#- Я предоставлю информацию о задачах и назначенных на них людях в теге ~
+      #br#- Я предоставлю сотрудников, некоторые из которых могут понадобиться для участия во встрече, в теге ~
+      #br#- Я предоставлю описание функции, которую нужно реализовать, в теге ~
+      #br#- Я предоставлю описание всего проекта в теге ~
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Basant-me en la informació de les tasques per implementar una funcionalitat en un sprint, necessito que defineixis la llista de reunions a organitzar seguint les instruccions següents:
+      #br#- Proporcionaré la informació sobre les tasques i les persones assignades a aquestes dins l’etiqueta ~
+      #br#- Proporcionaré els empleats, alguns dels quals poden necessitar participar en la reunió, dins l’etiqueta ~
+      #br#- Proporcionaré la descripció de la funcionalitat que necessitem implementar dins l’etiqueta ~
+      #br#- Proporcionaré la descripció de tot el projecte dins l’etiqueta ~
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.generation.team.company">
+    <en>
+      Based on the information about a company I want you to define the different groups and the employees that can exist in the company following the next instructions:
+      #br#- I will provide the description of the company inside the tag ~
+      #br#- In order to generate the groups and employees you should consider the nature of the company.
+      #br#- There should only be 1 Lead for each group.
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Con base en la información de una empresa, quiero que definas los diferentes grupos y empleados que pueden existir en ella siguiendo las siguientes instrucciones:
+      #br#- Proporcionaré la descripción de la empresa dentro de la etiqueta ~
+      #br#- Para generar los grupos y empleados, debes considerar la naturaleza de la empresa.
+      #br#- Solo debe haber un líder por grupo.
+      #br#- Usa este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Basierend auf den Informationen über ein Unternehmen möchte ich, dass du die verschiedenen Gruppen und Mitarbeiter definierst, die in dem Unternehmen existieren können, gemäß den folgenden Anweisungen:
+      #br#- Ich werde die Beschreibung des Unternehmens im Tag ~ angeben
+      #br#- Um die Gruppen und Mitarbeiter zu generieren, solltest du die Art des Unternehmens berücksichtigen.
+      #br#- Es darf nur einen Leiter pro Gruppe geben.
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      En te basant sur les informations concernant une entreprise, je veux que tu définisses les différents groupes et employés qui peuvent exister dans celle-ci selon les instructions suivantes :
+      #br#- Je fournirai la description de l’entreprise dans la balise ~
+      #br#- Pour générer les groupes et les employés, tu dois tenir compte de la nature de l’entreprise.
+      #br#- Il ne doit y avoir qu’un seul responsable par groupe.
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      In base alle informazioni su un’azienda, voglio che tu definisca i diversi gruppi e dipendenti che possono esistere nell’azienda seguendo le seguenti istruzioni:
+      #br#- Fornirò la descrizione dell’azienda all’interno del tag ~
+      #br#- Per generare i gruppi e i dipendenti, dovresti considerare la natura dell’azienda.
+      #br#- Ci deve essere un solo leader per ogni gruppo.
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      На основе информации о компании я хочу, чтобы ты определил различные группы и сотрудников, которые могут существовать в компании, следуя следующим инструкциям:
+      #br#- Я предоставлю описание компании в теге ~
+      #br#- Чтобы сгенерировать группы и сотрудников, необходимо учитывать характер компании.
+      #br#- В каждой группе должен быть только один лидер.
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Basant-me en la informació sobre una empresa, vull que defineixis els diferents grups i empleats que poden existir a l’empresa seguint les instruccions següents:
+      #br#- Proporcionaré la descripció de l’empresa dins l’etiqueta ~
+      #br#- Per generar els grups i els empleats, has de tenir en compte la naturalesa de l’empresa.
+      #br#- Només hi pot haver un líder per grup.
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.generation.team.fast.paced.company">
+    <en>
+      Based on the information about a company I want you to define the different groups and the employees that can exist in the company following the next instructions:
+      #br#- I will provide the description of the company inside the tag ~
+      #br#- In order to generate the groups and employees you should consider the nature of the company.
+      #br#- There should only be 1 Lead for each group.
+      #br#- In order to add realism to the team there should only be 1 person with duties of management whose behaviour is unprofessional and disorganized.
+      #br#- Use this JSON format to provide the response:
+    </en>
+    <es>
+      Con base en la información de una empresa, quiero que definas los diferentes grupos y empleados que pueden existir en ella siguiendo las siguientes instrucciones:
+      #br#- Proporcionaré la descripción de la empresa dentro de la etiqueta ~
+      #br#- Para generar los grupos y empleados, debes considerar la naturaleza de la empresa.
+      #br#- Solo debe haber un líder por grupo.
+      #br#- Para añadir realismo al equipo, debe haber una persona con responsabilidades de gestión cuyo comportamiento sea poco profesional y desorganizado.
+      #br#- Usa este formato JSON para proporcionar la respuesta:
+    </es>
+    <de>
+      Basierend auf den Informationen über ein Unternehmen möchte ich, dass du die verschiedenen Gruppen und Mitarbeiter definierst, die in dem Unternehmen existieren können, gemäß den folgenden Anweisungen:
+      #br#- Ich werde die Beschreibung des Unternehmens im Tag ~ angeben
+      #br#- Um die Gruppen und Mitarbeiter zu generieren, solltest du die Art des Unternehmens berücksichtigen.
+      #br#- Es darf nur einen Leiter pro Gruppe geben.
+      #br#- Um dem Team Realismus zu verleihen, sollte es nur eine Person mit Managementaufgaben geben, deren Verhalten unprofessionell und unorganisiert ist.
+      #br#- Verwende dieses JSON-Format, um die Antwort zu geben:
+    </de>
+    <fr>
+      En te basant sur les informations concernant une entreprise, je veux que tu définisses les différents groupes et employés qui peuvent exister dans celle-ci selon les instructions suivantes :
+      #br#- Je fournirai la description de l’entreprise dans la balise ~
+      #br#- Pour générer les groupes et les employés, tu dois tenir compte de la nature de l’entreprise.
+      #br#- Il ne doit y avoir qu’un seul responsable par groupe.
+      #br#- Pour ajouter du réalisme à l’équipe, il doit y avoir une seule personne ayant des responsabilités de gestion dont le comportement est non professionnel et désorganisé.
+      #br#- Utilise ce format JSON pour fournir la réponse :
+    </fr>
+    <it>
+      In base alle informazioni su un’azienda, voglio che tu definisca i diversi gruppi e dipendenti che possono esistere nell’azienda seguendo le seguenti istruzioni:
+      #br#- Fornirò la descrizione dell’azienda all’interno del tag ~
+      #br#- Per generare i gruppi e i dipendenti, dovresti considerare la natura dell’azienda.
+      #br#- Ci deve essere un solo leader per ogni gruppo.
+      #br#- Per aggiungere realismo al team, ci deve essere una sola persona con responsabilità di gestione il cui comportamento sia poco professionale e disorganizzato.
+      #br#- Usa questo formato JSON per fornire la risposta:
+    </it>
+    <ru>
+      На основе информации о компании я хочу, чтобы ты определил различные группы и сотрудников, которые могут существовать в компании, следуя следующим инструкциям:
+      #br#- Я предоставлю описание компании в теге ~
+      #br#- Чтобы сгенерировать группы и сотрудников, необходимо учитывать характер компании.
+      #br#- В каждой группе должен быть только один лидер.
+      #br#- Для добавления реалистичности в команде должна быть только одна персона с управленческими обязанностями, чьё поведение является непрофессиональным и неорганизованным.
+      #br#- Используй этот формат JSON для предоставления ответа:
+    </ru>
+    <ca>
+      Basant-me en la informació sobre una empresa, vull que defineixis els diferents grups i empleats que poden existir a l’empresa seguint les instruccions següents:
+      #br#- Proporcionaré la descripció de l’empresa dins l’etiqueta ~
+      #br#- Per generar els grups i els empleats, has de tenir en compte la naturalesa de l’empresa.
+      #br#- Només hi pot haver un líder per grup.
+      #br#- Per afegir realisme a l’equip, hi ha d’haver només una persona amb responsabilitats de gestió el comportament de la qual sigui poc professional i desorganitzat.
+      #br#- Utilitza aquest format JSON per proporcionar la resposta:
+    </ca>
+  </text>
+
+  <text id="ai.command.analyse.human.history">
+    <en>
+      I will provide a information of the contributions of a person named "~" in a work Sprint and I would like you to analyse the data and find out about the performance of that person following the next instructions:
+      #br#- I will provide all the person's contributions inside the tag ~
+      #br#- I will provide the tasks summary inside the tag ~
+      #br#- I will provide the project's global documents used in the Sprint inside the tag ~
+      #br#- I will provide the description the project that meeting belongs to inside the tag ~
+    </en>
+    <es>
+      Proporcionaré información sobre las contribuciones de una persona llamada "~" en un Sprint de trabajo. Me gustaría que analizaras los datos y averiguaras sobre su desempeño siguiendo las siguientes instrucciones:
+      #br#- Proporcionaré todas las contribuciones de la persona dentro de la etiqueta ~
+      #br#- Proporcionaré el resumen de tareas dentro de la etiqueta ~
+      #br#- Proporcionaré los documentos globales del proyecto utilizados en el Sprint dentro de la etiqueta ~
+      #br#- Proporcionaré la descripción del proyecto al que pertenece la reunión dentro de la etiqueta ~
+    </es>
+    <de>
+      Ich werde Informationen über die Beiträge einer Person namens "~" in einem Arbeitssprint bereitstellen, und ich möchte, dass du die Daten analysierst und die Leistung dieser Person bewertest, gemäß den folgenden Anweisungen:
+      #br#- Ich werde alle Beiträge der Person im Tag ~ angeben
+      #br#- Ich werde die Aufgabenübersicht im Tag ~ angeben
+      #br#- Ich werde die globalen Projektdokumente, die im Sprint verwendet wurden, im Tag ~ angeben
+      #br#- Ich werde die Beschreibung des Projekts, zu dem die Besprechung gehört, im Tag ~ angeben
+    </de>
+    <fr>
+      Je vais fournir des informations sur les contributions d’une personne nommée "~" lors d’un sprint de travail, et je voudrais que tu analyses les données afin d’évaluer les performances de cette personne selon les instructions suivantes :
+      #br#- Je fournirai toutes les contributions de la personne dans la balise ~
+      #br#- Je fournirai le résumé des tâches dans la balise ~
+      #br#- Je fournirai les documents globaux du projet utilisés pendant le sprint dans la balise ~
+      #br#- Je fournirai la description du projet auquel appartient la réunion dans la balise ~
+    </fr>
+    <it>
+      Fornirò informazioni sui contributi di una persona di nome "~" durante uno sprint di lavoro e vorrei che analizzassi i dati per valutare le sue prestazioni seguendo le seguenti istruzioni:
+      #br#- Fornirò tutti i contributi della persona all’interno del tag ~
+      #br#- Fornirò il riepilogo delle attività all’interno del tag ~
+      #br#- Fornirò i documenti globali del progetto utilizzati nello sprint all’interno del tag ~
+      #br#- Fornirò la descrizione del progetto a cui appartiene la riunione all’interno del tag ~
+    </it>
+    <ru>
+      Я предоставлю информацию о вкладе человека по имени "~" в рабочем спринте и хочу, чтобы ты проанализировал данные и оценил эффективность этого человека, следуя следующим инструкциям:
+      #br#- Я предоставлю все вклады этого человека в теге ~
+      #br#- Я предоставлю сводку задач в теге ~
+      #br#- Я предоставлю глобальные документы проекта, использованные в спринте, в теге ~
+      #br#- Я предоставлю описание проекта, к которому относится встреча, в теге ~
+    </ru>
+    <ca>
+      Proporcionaré informació sobre les contribucions d’una persona anomenada "~" en un sprint de treball, i m’agradaria que analitzessis les dades i valoris el rendiment d’aquesta persona seguint les instruccions següents:
+      #br#- Proporcionaré totes les contribucions de la persona dins l’etiqueta ~
+      #br#- Proporcionaré el resum de tasques dins l’etiqueta ~
+      #br#- Proporcionaré els documents globals del projecte utilitzats a l’sprint dins l’etiqueta ~
+      #br#- Proporcionaré la descripció del projecte al qual pertany la reunió dins l’etiqueta ~
+    </ca>
+  </text>
+
+</texts>
+
+

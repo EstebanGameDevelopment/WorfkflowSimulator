@@ -1,0 +1,12 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.59f2
+CRC: 1044574877
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: yourvrxrframework
+      Dependencies: {}
+    Info_1:
+      Name: workflowsimulator
+      Dependencies: {}
