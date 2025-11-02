@@ -56,7 +56,7 @@ To obtain the modified versions of these scripts, please contact the development
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<yourusername>/workflow-simulator.git
+   git clone https://github.com/EstebanGameDevelopment/workflow-simulator.git
    ```
 
 2. **Open the project in Unity**
@@ -149,5 +149,5 @@ If you’d like to submit bug fixes, improvements, or new features:
 
 ## 🪪 **License**
 
-This project is released under the **MIT License**.
+This project is released under the **MIT License**(https://github.com/EstebanGameDevelopment/WorfkflowSimulator/blob/master/LICENSE.txt).
 You are free to use, modify, and distribute it for personal and commercial purposes, provided proper attribution is given.
