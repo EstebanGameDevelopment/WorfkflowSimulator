@@ -20,7 +20,7 @@ The result is a realistic sandbox for **training, experimentation, and workflow 
 ## ⚙️ **System Requirements**
 
 * **Unity Version:** Recommended 6000.0.59f2
-* **Backend:** PHP + MySQL (XAMPP recommended).
+* **Backend:** PHP + MySQL [(XAMPP recommended)](https://www.apachefriends.org/download.html).
 * **AI Backend:** Python server for AI and LLM operations.
 * **Supported Build Target:** WebGL.
 
@@ -30,15 +30,15 @@ The result is a realistic sandbox for **training, experimentation, and workflow 
 
 To run the project successfully, the following Unity Asset Store packages are required:
 
-* **Date Time Picker** – clock and schedule system
-* **Calendar Scheduler UI** – meeting and event organization
-* **File Browser PRO** – in-editor file management
-* **InGame Code Editor** – embedded code input tool
-* **Simple Sign-In with Google** – authentication system
-* **UI Color Picker** – project and group customization
-* **Volumetric Lines** – 3D visualization of layouts
-* **Net Checkout** – payment and checkout flow
-* **Simple File Browser for WebGL** – file browser for WebGL builds
+* [**Date Time Picker**](https://assetstore.unity.com/packages/tools/gui/date-time-picker-253354) – clock and schedule system
+* [**Calendar Scheduler UI**](https://assetstore.unity.com/packages/tools/gui/calendar-scheduler-ui-261219) – meeting and event organization
+* [**File Browser PRO**](https://assetstore.unity.com/packages/tools/utilities/file-browser-pro-98713) – in-editor file management
+* [**InGame Code Editor**](https://assetstore.unity.com/packages/tools/gui/ingame-code-editor-144254) – embedded code input tool
+* [**Simple Sign-In with Google**](https://assetstore.unity.com/packages/tools/integration/simple-sign-in-with-google-250663) – authentication system
+* [**UI Color Picker**](https://assetstore.unity.com/packages/tools/gui/ui-color-picker-62874) – project and group color customization
+* [**Volumetric Lines**](https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160) – 3D visualization of layouts
+* [**Net Checkout**](https://assetstore.unity.com/packages/tools/integration/net-checkout-176354) – payment and checkout flow
+* [**Simple File Browser for WebGL**](https://assetstore.unity.com/packages/tools/integration/simple-file-browser-for-webgl-234993) – file browser for WebGL builds
 
 Some of these assets must be **modified** for compatibility.
 After importing, replace the scripts from the following packages:
@@ -47,7 +47,7 @@ After importing, replace the scripts from the following packages:
 * `Date Time Picker`
 * `UI Color Picker`
 
-To obtain the modified versions of these scripts, please contact the development team and provide **proof of asset ownership** (e.g., video verification).
+To obtain the modified versions of these scripts, please [contact the development team](mailto:assets.request@workflowsimulator.com?subject=[GitHub]%20Assets%20Request) and provide **proof of asset ownership** (e.g., video verification).
 
 ---
 
