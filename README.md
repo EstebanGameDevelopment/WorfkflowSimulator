@@ -126,12 +126,12 @@ The **Candidate Test** module allows organizations to simulate professional envi
 
 ## 🎬 **Video Tutorials**
 
-* [📹 **Project Presentation**](#) https://youtu.be/_MSsaI-L6T4
-* [📹 **Installation Guide**](#) https://youtu.be/0MxYODuZ_nc
-* [📹 **Project Demo**](#) https://youtu.be/EAPTDztlE08
-* [📹 **Candidate Test Simulation**](#) https://youtu.be/p3GtG-Wbcv8
-* [📹 **Build office from Scratch**](#) https://youtu.be/qWDFTqthzow
-* [📹 **Master the control of time**](#) https://youtu.be/gQd0HTuhmkg
+* [📹 **Project Presentation**](https://youtu.be/_MSsaI-L6T4) 
+* [📹 **Installation Guide**](https://youtu.be/0MxYODuZ_nc)
+* [📹 **Project Demo**](https://youtu.be/EAPTDztlE08)
+* [📹 **Candidate Test Simulation**](https://youtu.be/p3GtG-Wbcv8)
+* [📹 **Build office from Scratch**](https://youtu.be/qWDFTqthzow)
+* [📹 **Master the control of time**](https://youtu.be/gQd0HTuhmkg)
   
 ---
 
