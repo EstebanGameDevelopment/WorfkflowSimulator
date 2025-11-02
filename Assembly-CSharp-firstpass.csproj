@@ -9,8 +9,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <RootNamespace>
-    </RootNamespace>
+    <RootNamespace></RootNamespace>
     <ProjectGuid>{E036C1CB-FF5C-7A38-4D5B-4575C7E6E550}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -73,9 +72,7 @@
     <Compile Include="Assets\Plugins\Pixelplacement\iTween\Sample\SampleInfo.cs" />
     <Compile Include="Assets\Plugins\crosstales\FileBrowser\Scripts\Wrapper\FileBrowserLinux.cs" />
     <Compile Include="Assets\Plugins\crosstales\Common\Scripts\Model\Enum\Platform.cs" />
-    <Compile Include="Assets\Plugins\crosstales\Common\Scripts\Util\CTWebClient.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Assets\Plugins\crosstales\Common\Scripts\Util\CTWebClient.cs" />
     <Compile Include="Assets\Plugins\Pixelplacement\iTween\iTween.cs" />
     <Compile Include="Assets\Plugins\crosstales\Common\Extras\Random\Scripts\RandomColor.cs" />
     <Compile Include="Assets\Plugins\crosstales\Common\Scripts\Util\MemoryCacheStream.cs" />

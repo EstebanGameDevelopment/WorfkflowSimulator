@@ -1,42 +1,9 @@
-  <b>Software License Agreement</b>
-  
-  <b>SOFTWARE LICENSE AGREEMENT</b>
+MIT License
 
-  <b>This Software License Agreement ("Agreement")</b> is entered into as of the date of the download or use of the software (the "Effective Date") by and between the software provider ("Licensor") and the user ("Licensee").
+Copyright (c) 2025 Workflow Simulator
 
-  <b>1. Grant of License</b>
-  <b>1.1 License.</b> Licensor grants Licensee a non-exclusive, non-transferable, revocable license to use the software (the "Software") solely for the purposes of creating, editing, and managing media content, subject to the terms and conditions of this Agreement.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-  <b>2. Restrictions</b>
-  <b>2.1 Prohibited Uses.</b> Licensee shall not:
-    * Use the Software for any unlawful, fraudulent, or unethical activities.
-    * Modify, reverse engineer, or decompile the Software.
-    * Distribute, sublicense, lease, rent, or sell the Software to any third party.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-  <b>3. User-Generated Content</b>
-  <b>3.1 Responsibility for Content.</b> Licensee acknowledges and agrees that all content created, generated, or published using the Software (the "User Content") is the sole responsibility of the Licensee. Licensee shall ensure that the User Content complies with all applicable laws, regulations, and third-party rights.
-
-  <b>3.2 Content Ownership.</b> Licensor does not claim ownership of any User Content created by Licensee. Licensee retains all rights to such content.
-
-  <b>3.3 Licensor's Non-Liability.</b> Licensee agrees that Licensor shall not be liable for any User Content, including but not limited to any errors or omissions in the User Content, or any loss or damage of any kind incurred as a result of the use or distribution of the User Content.
-
-  <b>3.4 Indemnification.</b> Licensee agrees to indemnify, defend, and hold harmless Licensor from any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to User Content or Licensee's use of the Software.
-
-  <b>4. Limitation of Liability</b>
-  <b>4.1 No Warranty.</b> The Software is provided "as is," and Licensor makes no warranties, express or implied, regarding the Software, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
-
-  <b>4.2 Exclusion of Damages.</b> In no event shall Licensor be liable to Licensee for any indirect, incidental, special, consequential, or punitive damages (including but not limited to loss of use, data, or profits) arising out of or related to the use or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
-
-  <b>5. Termination</b>
-  <b>5.1 Termination by Licensor.</b> Licensor may terminate this Agreement at any time if Licensee breaches any term of this Agreement. Upon termination, Licensee must immediately cease all use of the Software and destroy all copies of the Software in Licensee's possession or control.
-
-  <b>6. General Provisions</b>
-  <b>6.1 Governing Law.</b> This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of law principles.
-
-  <b>6.2 Entire Agreement.</b> This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements or understandings, whether written or oral, relating to such subject matter.
-
-  <b>6.3 Amendments.</b> Licensor reserves the right to amend or modify this Agreement at any time, with or without notice to Licensee. Licensee's continued use of the Software constitutes acceptance of any such changes.
-
-  <b>6.4 Severability.</b> If any provision of this Agreement is found to be unenforceable, that provision shall be enforced to the maximum extent permissible, and the remaining provisions of this Agreement shall remain in full force and effect.
-
-  <b>IN WITNESS WHEREOF,</b> by downloading, installing, or using the Software, Licensee agrees to be bound by the terms and conditions of this Agreement.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
