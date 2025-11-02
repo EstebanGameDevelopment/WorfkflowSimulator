@@ -149,5 +149,5 @@ If you’d like to submit bug fixes, improvements, or new features:
 
 ## 🪪 **License**
 
-This project is released under the **MIT License**(https://github.com/EstebanGameDevelopment/WorfkflowSimulator/blob/master/LICENSE.txt).
+This project is released under the [**MIT License**](https://github.com/EstebanGameDevelopment/WorfkflowSimulator/blob/master/LICENSE.txt).
 You are free to use, modify, and distribute it for personal and commercial purposes, provided proper attribution is given.
