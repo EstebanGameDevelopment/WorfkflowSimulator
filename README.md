@@ -126,12 +126,13 @@ The **Candidate Test** module allows organizations to simulate professional envi
 
 ## 🎬 **Video Tutorials**
 
-* [📹 **Project Presentation**](https://youtu.be/_MSsaI-L6T4) 
-* [📹 **Installation Guide**](https://youtu.be/0MxYODuZ_nc)
-* [📹 **Project Demo**](https://youtu.be/EAPTDztlE08)
-* [📹 **Candidate Test Simulation**](https://youtu.be/p3GtG-Wbcv8)
-* [📹 **Build office from Scratch**](https://youtu.be/qWDFTqthzow)
-* [📹 **Master the control of time**](https://youtu.be/gQd0HTuhmkg)
+* [📹 **Project Presentation**](https://youtu.be/_MSsaI-L6T4): Your Digital Twin Office 
+* [📹 **Installation Guide**](https://youtu.be/0MxYODuZ_nc): The installation steps to get the simulation running locally
+* [📹 **Project Code Structure Walkthrough**](https://youtu.be/qyK3UiZHiZ0): A walkthrough that goes through all the code structure elements in order for any programmer create their own solution
+* [📹 **Project Demo**](https://youtu.be/EAPTDztlE08): A use case of creating an office using AI, from the office definition, to the Project and Sprint definition, concluding with running the simulation.
+* [📹 **Candidate Test Simulation**](https://youtu.be/p3GtG-Wbcv8): A use case where a candidate can take a rol of one of the members of the team an perform a test to evaluate both their soft and technical skills.
+* [📹 **Build office from Scratch**](https://youtu.be/qWDFTqthzow): A use case where we build a project from scratch.
+* [📹 **Master the control of time**](https://youtu.be/gQd0HTuhmkg): Demonstration of the most important UI element of the simulation, the TimeHUD panel.
   
 ---
 
