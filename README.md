@@ -3,6 +3,8 @@
 **Workflow Simulator** is an open-source platform that enables the creation of a **digital twin office** — a fully simulated work environment where teams, processes, and meetings are powered by AI.
 It allows users to experiment safely with organizational workflows, evaluate candidate performance, and optimize collaboration dynamics before applying changes to real workplaces.
 
+[🌐 **Workflow Simulator Website**](https://www.workflowsimulator.com/)
+
 ---
 
 ## 🏗️ **Overview**
