@@ -4,6 +4,7 @@
 It allows users to experiment safely with organizational workflows, evaluate candidate performance, and optimize collaboration dynamics before applying changes to real workplaces.
 
 [🌐 **Workflow Simulator Website**](https://www.workflowsimulator.com/)
+[🤝 **Connect with us with Discord**](https://discord.gg/nQVF47X9b9)
 
 ---
 
