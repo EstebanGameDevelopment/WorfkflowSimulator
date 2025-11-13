@@ -5531,6 +5531,55 @@
     <ca>ATURAT</ca>
   </text>
 
+  <text id="text.cannot.start.task.because.linked.meeting">
+    <en>You cannot start this task because there is a linked kick-off meeting</en>
+    <es>No puedes empezar esta tarea porque hay una reunión de inicio enlazada</es>
+    <de>Du kannst diese Aufgabe nicht starten, da eine verknüpfte Kick-off-Besprechung vorhanden ist</de>
+    <fr>Vous ne pouvez pas commencer cette tâche car une réunion de lancement y est liée</fr>
+    <it>Non puoi avviare questa attività perché è collegata a una riunione di avvio</it>
+    <ru>Вы не можете начать эту задачу, так как с ней связана стартовая встреча</ru>
+    <ca>No pots començar aquesta tasca perquè hi ha una reunió d'inici enllaçada</ca>
+  </text>
+
+  <text id="text.do.you.want.to.delete.to.this.meeting">
+    <en>Do you want to remove the meeting linked to this task?</en>
+    <es>¿Deseas eliminar la reunión enlazada con esta tarea?</es>
+    <de>Möchtest du die mit dieser Aufgabe verknüpfte Besprechung löschen?</de>
+    <fr>Voulez-vous supprimer la réunion liée à cette tâche ?</fr>
+    <it>Vuoi eliminare la riunione collegata a questa attività?</it>
+    <ru>Вы хотите удалить встречу, связанную с этой задачей?</ru>
+    <ca>Vols eliminar la reunió enllaçada amb aquesta tasca?</ca>
+  </text>
+
+  <text id="screen.dialog.wait.for.ai.to.process">
+    <en>Wait for AI to process the meeting start-up...</en>
+    <es>Espere a que la IA procese el inicio de reunión...</es>
+    <de>Warten Sie, bis die KI den Start der Besprechung verarbeitet...</de>
+    <fr>Veuillez attendre que l’IA traite le démarrage de la réunion...</fr>
+    <it>Attendere che l’IA elabori l’avvio della riunione...</it>
+    <ru>Подождите, пока ИИ обработает запуск встречи...</ru>
+    <ca>Espereu que la IA processi l’inici de la reunió...</ca>
+  </text>
+
+  <text id="text.do.you.want.to.delete.this.board">
+    <en>Do you want to delete this board?</en>
+    <es>¿Deseas eliminar este tablero?</es>
+    <de>Möchtest du dieses tablero löschen?</de>
+    <fr>Voulez-vous supprimer ce tableau ?</fr>
+    <it>Vuoi eliminare questa bacheca?</it>
+    <ru>Вы хотите удалить эту доску?</ru>
+    <ca>Vols eliminar aquest tauler?</ca>
+  </text>
+
+  <text id="run.state.project.name.board.existing.try.other">
+    <en>The name is already in use. Please, try another name.</en>
+    <es>El nombre de este tablero está en uso. Por favor, intente con otro nombre.</es>
+    <de>Der Name wird bereits verwendet. Bitte versuchen Sie einen anderen Namen.</de>
+    <fr>Ce nom est déjà utilisé. Veuillez essayer un autre nom.</fr>
+    <it>Il nome è già in uso. Per favore, prova un altro nome.</it>
+    <ru>Это имя уже используется. Пожалуйста, попробуйте другое.</ru>
+    <ca>El nom ja està en ús. Si us plau, prova un altre nom.</ca>
+  </text>
 
 </texts>
 
